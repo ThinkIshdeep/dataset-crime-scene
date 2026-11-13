@@ -1,0 +1,15 @@
+1
+00:00:00,000 --> 00:00:07,000
+Inspect suspicious evidence
+The demo contains exact duplicates, entity overlap and an explicitly unavailable post-event feature.
+
+2
+00:00:07,000 --> 00:00:14,000
+Run both evaluations
+A random-forest pipeline is evaluated before and after applying the configured data-availability and split rules.
+
+3
+00:00:14,000 --> 00:00:21,000
+Explain the score change
+Grouped evaluation and feature correction remove the inflated score. Lower accuracy can reveal a more honest test.
+

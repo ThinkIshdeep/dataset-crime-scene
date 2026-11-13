@@ -1,0 +1,5361 @@
+{
+  "name": "synthetic-leaky-cohort.csv",
+  "records": [
+    {
+      "subject": 0,
+      "age": 23,
+      "signal": 0.8403081374573955,
+      "outcome": 1,
+      "post_event_result": 0.9986891334931227,
+      "day": 0
+    },
+    {
+      "subject": 1,
+      "age": 62,
+      "signal": -1.7273204231923487,
+      "outcome": 1,
+      "post_event_result": 0.9816909417415247,
+      "day": 1
+    },
+    {
+      "subject": 2,
+      "age": 55,
+      "signal": 0.43442364354585733,
+      "outcome": 0,
+      "post_event_result": 0.009282969915684844,
+      "day": 2
+    },
+    {
+      "subject": 3,
+      "age": 43,
+      "signal": 0.2377356023322779,
+      "outcome": 1,
+      "post_event_result": 0.9939499928719127,
+      "day": 3
+    },
+    {
+      "subject": 4,
+      "age": 42,
+      "signal": -0.5941499556967944,
+      "outcome": 0,
+      "post_event_result": -0.005339002383735546,
+      "day": 4
+    },
+    {
+      "subject": 5,
+      "age": 66,
+      "signal": -1.4460578543884546,
+      "outcome": 1,
+      "post_event_result": 0.9893024758871031,
+      "day": 5
+    },
+    {
+      "subject": 6,
+      "age": 22,
+      "signal": 0.07212950771386951,
+      "outcome": 0,
+      "post_event_result": -0.0065428327668755545,
+      "day": 6
+    },
+    {
+      "subject": 7,
+      "age": 57,
+      "signal": -0.5294927090638024,
+      "outcome": 1,
+      "post_event_result": 1.0042789044069491,
+      "day": 7
+    },
+    {
+      "subject": 8,
+      "age": 29,
+      "signal": 0.23267621135470395,
+      "outcome": 1,
+      "post_event_result": 0.998107556590636,
+      "day": 8
+    },
+    {
+      "subject": 9,
+      "age": 23,
+      "signal": 0.02185214552344288,
+      "outcome": 1,
+      "post_event_result": 1.0032866200228248,
+      "day": 9
+    },
+    {
+      "subject": 10,
+      "age": 48,
+      "signal": 1.6017788913209154,
+      "outcome": 1,
+      "post_event_result": 1.0036192185392885,
+      "day": 10
+    },
+    {
+      "subject": 11,
+      "age": 73,
+      "signal": -0.23935562747302427,
+      "outcome": 1,
+      "post_event_result": 1.0132066165552818,
+      "day": 11
+    },
+    {
+      "subject": 12,
+      "age": 59,
+      "signal": -1.023497492621865,
+      "outcome": 0,
+      "post_event_result": -0.0034278615086437932,
+      "day": 12
+    },
+    {
+      "subject": 13,
+      "age": 61,
+      "signal": 0.17927563495631615,
+      "outcome": 0,
+      "post_event_result": -0.014768578168457318,
+      "day": 13
+    },
+    {
+      "subject": 14,
+      "age": 58,
+      "signal": 0.21999668397176517,
+      "outcome": 1,
+      "post_event_result": 1.0106722241657198,
+      "day": 14
+    },
+    {
+      "subject": 15,
+      "age": 62,
+      "signal": 1.3591875752404365,
+      "outcome": 1,
+      "post_event_result": 0.9966851182790275,
+      "day": 15
+    },
+    {
+      "subject": 16,
+      "age": 47,
+      "signal": 0.8351112459145785,
+      "outcome": 0,
+      "post_event_result": 0.01114592444577377,
+      "day": 16
+    },
+    {
+      "subject": 17,
+      "age": 25,
+      "signal": 0.35687105914950934,
+      "outcome": 0,
+      "post_event_result": 0.003833771131824704,
+      "day": 17
+    },
+    {
+      "subject": 18,
+      "age": 65,
+      "signal": 1.4633028912195618,
+      "outcome": 1,
+      "post_event_result": 0.9986886246979666,
+      "day": 18
+    },
+    {
+      "subject": 19,
+      "age": 43,
+      "signal": -1.188763054322851,
+      "outcome": 1,
+      "post_event_result": 1.003487758940463,
+      "day": 19
+    },
+    {
+      "subject": 20,
+      "age": 46,
+      "signal": -0.6397515327497477,
+      "outcome": 0,
+      "post_event_result": 0.019510125601262997,
+      "day": 20
+    },
+    {
+      "subject": 21,
+      "age": 39,
+      "signal": -0.9265759414055249,
+      "outcome": 0,
+      "post_event_result": 0.02076980529053753,
+      "day": 21
+    },
+    {
+      "subject": 22,
+      "age": 28,
+      "signal": -0.38980980315576796,
+      "outcome": 0,
+      "post_event_result": 0.000693811351327787,
+      "day": 22
+    },
+    {
+      "subject": 23,
+      "age": 70,
+      "signal": -1.3766861475563088,
+      "outcome": 1,
+      "post_event_result": 1.0016019059331707,
+      "day": 23
+    },
+    {
+      "subject": 24,
+      "age": 62,
+      "signal": 0.6351509468144043,
+      "outcome": 0,
+      "post_event_result": 0.010762401574663856,
+      "day": 24
+    },
+    {
+      "subject": 25,
+      "age": 54,
+      "signal": -0.22222269709877338,
+      "outcome": 1,
+      "post_event_result": 0.9915433896723266,
+      "day": 25
+    },
+    {
+      "subject": 26,
+      "age": 40,
+      "signal": -1.4708062945026579,
+      "outcome": 0,
+      "post_event_result": 0.003330703726182551,
+      "day": 26
+    },
+    {
+      "subject": 27,
+      "age": 64,
+      "signal": -1.0155790812075416,
+      "outcome": 0,
+      "post_event_result": -0.00025862847953856403,
+      "day": 27
+    },
+    {
+      "subject": 28,
+      "age": 49,
+      "signal": 0.3135138474501953,
+      "outcome": 1,
+      "post_event_result": 1.0031390821145756,
+      "day": 28
+    },
+    {
+      "subject": 29,
+      "age": 43,
+      "signal": 0.8381265678943811,
+      "outcome": 1,
+      "post_event_result": 0.9916663119405059,
+      "day": 29
+    },
+    {
+      "subject": 30,
+      "age": 43,
+      "signal": 1.9967308916917865,
+      "outcome": 1,
+      "post_event_result": 0.9841043250669103,
+      "day": 30
+    },
+    {
+      "subject": 31,
+      "age": 30,
+      "signal": 2.9138624660073296,
+      "outcome": 1,
+      "post_event_result": 0.9792701656400871,
+      "day": 31
+    },
+    {
+      "subject": 32,
+      "age": 23,
+      "signal": 0.4144094332759964,
+      "outcome": 1,
+      "post_event_result": 0.9888261588701039,
+      "day": 32
+    },
+    {
+      "subject": 33,
+      "age": 49,
+      "signal": -0.9895381200318641,
+      "outcome": 1,
+      "post_event_result": 0.9954132471506066,
+      "day": 33
+    },
+    {
+      "subject": 34,
+      "age": 68,
+      "signal": -2.132046280731309,
+      "outcome": 1,
+      "post_event_result": 0.9970680841335123,
+      "day": 34
+    },
+    {
+      "subject": 35,
+      "age": 21,
+      "signal": 0.2677114623438358,
+      "outcome": 0,
+      "post_event_result": 0.01937231162429517,
+      "day": 35
+    },
+    {
+      "subject": 36,
+      "age": 66,
+      "signal": -0.812941095310326,
+      "outcome": 0,
+      "post_event_result": 0.011059933699072981,
+      "day": 36
+    },
+    {
+      "subject": 37,
+      "age": 65,
+      "signal": -0.41535726017968533,
+      "outcome": 1,
+      "post_event_result": 0.9903790888365838,
+      "day": 37
+    },
+    {
+      "subject": 38,
+      "age": 33,
+      "signal": -0.6120967990598081,
+      "outcome": 0,
+      "post_event_result": 0.0034770845245095695,
+      "day": 38
+    },
+    {
+      "subject": 39,
+      "age": 54,
+      "signal": -0.14079088641638526,
+      "outcome": 1,
+      "post_event_result": 0.9959292176364968,
+      "day": 39
+    },
+    {
+      "subject": 40,
+      "age": 27,
+      "signal": 1.0659802307876436,
+      "outcome": 1,
+      "post_event_result": 0.9971563616195991,
+      "day": 40
+    },
+    {
+      "subject": 41,
+      "age": 61,
+      "signal": 0.15704856744534462,
+      "outcome": 0,
+      "post_event_result": 0.0018532564941538203,
+      "day": 41
+    },
+    {
+      "subject": 42,
+      "age": 57,
+      "signal": -0.1586348370386883,
+      "outcome": 1,
+      "post_event_result": 1.006191711169754,
+      "day": 42
+    },
+    {
+      "subject": 43,
+      "age": 38,
+      "signal": -1.0356537528258116,
+      "outcome": 0,
+      "post_event_result": -0.0033925848388401537,
+      "day": 43
+    },
+    {
+      "subject": 44,
+      "age": 21,
+      "signal": -1.674682944704357,
+      "outcome": 1,
+      "post_event_result": 1.0106385153273436,
+      "day": 44
+    },
+    {
+      "subject": 45,
+      "age": 73,
+      "signal": -0.4863079090733309,
+      "outcome": 0,
+      "post_event_result": -0.011419382261424041,
+      "day": 45
+    },
+    {
+      "subject": 46,
+      "age": 43,
+      "signal": -0.05378255081832049,
+      "outcome": 0,
+      "post_event_result": 6.339062362268442e-05,
+      "day": 46
+    },
+    {
+      "subject": 47,
+      "age": 68,
+      "signal": 1.767929913579883,
+      "outcome": 1,
+      "post_event_result": 1.0259767372659583,
+      "day": 47
+    },
+    {
+      "subject": 48,
+      "age": 56,
+      "signal": 0.13027452147288585,
+      "outcome": 1,
+      "post_event_result": 1.0022307974262528,
+      "day": 48
+    },
+    {
+      "subject": 49,
+      "age": 62,
+      "signal": 0.9827395110230576,
+      "outcome": 0,
+      "post_event_result": 0.014332145066061728,
+      "day": 49
+    },
+    {
+      "subject": 50,
+      "age": 61,
+      "signal": -0.49929559853915206,
+      "outcome": 1,
+      "post_event_result": 1.000915201781732,
+      "day": 50
+    },
+    {
+      "subject": 51,
+      "age": 29,
+      "signal": -1.1849437664170246,
+      "outcome": 1,
+      "post_event_result": 1.005807770953298,
+      "day": 51
+    },
+    {
+      "subject": 52,
+      "age": 38,
+      "signal": -0.9651167622323719,
+      "outcome": 0,
+      "post_event_result": -0.0005678319439269153,
+      "day": 52
+    },
+    {
+      "subject": 53,
+      "age": 44,
+      "signal": -0.7252260645357532,
+      "outcome": 1,
+      "post_event_result": 0.998295924188358,
+      "day": 53
+    },
+    {
+      "subject": 54,
+      "age": 46,
+      "signal": 2.1284697324351645,
+      "outcome": 1,
+      "post_event_result": 0.9922051760327458,
+      "day": 54
+    },
+    {
+      "subject": 55,
+      "age": 20,
+      "signal": -0.8213866792243861,
+      "outcome": 0,
+      "post_event_result": 0.004303013589575532,
+      "day": 55
+    },
+    {
+      "subject": 56,
+      "age": 49,
+      "signal": 0.838489203736345,
+      "outcome": 1,
+      "post_event_result": 0.9914846281081423,
+      "day": 56
+    },
+    {
+      "subject": 57,
+      "age": 26,
+      "signal": -0.9029271780870264,
+      "outcome": 1,
+      "post_event_result": 1.0066558523631344,
+      "day": 57
+    },
+    {
+      "subject": 58,
+      "age": 60,
+      "signal": 0.9315730128742441,
+      "outcome": 1,
+      "post_event_result": 1.010852870044459,
+      "day": 58
+    },
+    {
+      "subject": 59,
+      "age": 56,
+      "signal": 0.38495096610586316,
+      "outcome": 1,
+      "post_event_result": 1.0036653140723724,
+      "day": 59
+    },
+    {
+      "subject": 60,
+      "age": 70,
+      "signal": -0.1566378976580904,
+      "outcome": 1,
+      "post_event_result": 0.9971375126644431,
+      "day": 60
+    },
+    {
+      "subject": 61,
+      "age": 60,
+      "signal": -0.040762526135434025,
+      "outcome": 0,
+      "post_event_result": 0.004539655793086961,
+      "day": 61
+    },
+    {
+      "subject": 62,
+      "age": 38,
+      "signal": -0.6547876954293904,
+      "outcome": 1,
+      "post_event_result": 0.9969132694445358,
+      "day": 62
+    },
+    {
+      "subject": 63,
+      "age": 73,
+      "signal": 0.44607220148208054,
+      "outcome": 0,
+      "post_event_result": 0.009355471254651493,
+      "day": 63
+    },
+    {
+      "subject": 64,
+      "age": 41,
+      "signal": -0.45498348034078,
+      "outcome": 1,
+      "post_event_result": 0.9816859391578487,
+      "day": 64
+    },
+    {
+      "subject": 65,
+      "age": 36,
+      "signal": -1.2256057637672482,
+      "outcome": 0,
+      "post_event_result": -0.0033560736811864625,
+      "day": 65
+    },
+    {
+      "subject": 66,
+      "age": 69,
+      "signal": -1.2779375743196193,
+      "outcome": 0,
+      "post_event_result": -0.019908119951239978,
+      "day": 66
+    },
+    {
+      "subject": 67,
+      "age": 39,
+      "signal": 0.17258791772211948,
+      "outcome": 0,
+      "post_event_result": -0.01495060830227205,
+      "day": 67
+    },
+    {
+      "subject": 68,
+      "age": 22,
+      "signal": 1.579091256410435,
+      "outcome": 1,
+      "post_event_result": 1.013638622298139,
+      "day": 68
+    },
+    {
+      "subject": 69,
+      "age": 44,
+      "signal": 0.15999161357343825,
+      "outcome": 0,
+      "post_event_result": 0.00895184981971686,
+      "day": 69
+    },
+    {
+      "subject": 70,
+      "age": 63,
+      "signal": -0.11863832610988256,
+      "outcome": 0,
+      "post_event_result": -0.007194802332847904,
+      "day": 70
+    },
+    {
+      "subject": 71,
+      "age": 28,
+      "signal": 0.2858261396025429,
+      "outcome": 1,
+      "post_event_result": 0.9849749654395911,
+      "day": 71
+    },
+    {
+      "subject": 72,
+      "age": 44,
+      "signal": 1.3060017417068248,
+      "outcome": 1,
+      "post_event_result": 0.9703547116215835,
+      "day": 72
+    },
+    {
+      "subject": 73,
+      "age": 25,
+      "signal": 0.21938250136385634,
+      "outcome": 0,
+      "post_event_result": -0.005434955079326346,
+      "day": 73
+    },
+    {
+      "subject": 74,
+      "age": 57,
+      "signal": -0.41092723083373717,
+      "outcome": 1,
+      "post_event_result": 1.0242041501224741,
+      "day": 74
+    },
+    {
+      "subject": 75,
+      "age": 45,
+      "signal": 1.1062887100598888,
+      "outcome": 0,
+      "post_event_result": 0.004348842714636474,
+      "day": 75
+    },
+    {
+      "subject": 76,
+      "age": 36,
+      "signal": 0.4287564384616135,
+      "outcome": 0,
+      "post_event_result": -0.005595722860494895,
+      "day": 76
+    },
+    {
+      "subject": 77,
+      "age": 30,
+      "signal": 1.535755991995992,
+      "outcome": 1,
+      "post_event_result": 1.0046508020950031,
+      "day": 77
+    },
+    {
+      "subject": 78,
+      "age": 50,
+      "signal": 0.18323443722190613,
+      "outcome": 0,
+      "post_event_result": -0.015609583529944428,
+      "day": 78
+    },
+    {
+      "subject": 79,
+      "age": 56,
+      "signal": -1.2244690317205003,
+      "outcome": 1,
+      "post_event_result": 0.9970267663730237,
+      "day": 79
+    },
+    {
+      "subject": 80,
+      "age": 71,
+      "signal": -1.368159199245665,
+      "outcome": 1,
+      "post_event_result": 1.0009947747301573,
+      "day": 80
+    },
+    {
+      "subject": 81,
+      "age": 42,
+      "signal": 1.6509279322312496,
+      "outcome": 1,
+      "post_event_result": 0.9991389934817895,
+      "day": 81
+    },
+    {
+      "subject": 82,
+      "age": 27,
+      "signal": 1.723665720783297,
+      "outcome": 0,
+      "post_event_result": 0.007908061216900806,
+      "day": 82
+    },
+    {
+      "subject": 83,
+      "age": 65,
+      "signal": -0.17951921328260065,
+      "outcome": 1,
+      "post_event_result": 1.0034464522623605,
+      "day": 83
+    },
+    {
+      "subject": 84,
+      "age": 53,
+      "signal": -0.38318732113598775,
+      "outcome": 1,
+      "post_event_result": 1.00668326018108,
+      "day": 84
+    },
+    {
+      "subject": 85,
+      "age": 57,
+      "signal": 1.4614442922422022,
+      "outcome": 0,
+      "post_event_result": -0.0068837228223075945,
+      "day": 85
+    },
+    {
+      "subject": 86,
+      "age": 23,
+      "signal": -1.107045682043488,
+      "outcome": 0,
+      "post_event_result": 0.008978154084105482,
+      "day": 86
+    },
+    {
+      "subject": 87,
+      "age": 35,
+      "signal": -0.8947270189558264,
+      "outcome": 0,
+      "post_event_result": 0.016289369476239914,
+      "day": 87
+    },
+    {
+      "subject": 88,
+      "age": 61,
+      "signal": 0.6433267946890444,
+      "outcome": 1,
+      "post_event_result": 0.9902985048034859,
+      "day": 88
+    },
+    {
+      "subject": 89,
+      "age": 65,
+      "signal": -0.3946051228595896,
+      "outcome": 1,
+      "post_event_result": 0.9911230434428544,
+      "day": 89
+    },
+    {
+      "subject": 90,
+      "age": 42,
+      "signal": -0.005121866720071296,
+      "outcome": 0,
+      "post_event_result": 0.013357843363202329,
+      "day": 90
+    },
+    {
+      "subject": 91,
+      "age": 63,
+      "signal": -0.16344289852451258,
+      "outcome": 1,
+      "post_event_result": 0.9980865601330494,
+      "day": 91
+    },
+    {
+      "subject": 92,
+      "age": 65,
+      "signal": 0.33757454879893356,
+      "outcome": 1,
+      "post_event_result": 1.0140382139206656,
+      "day": 92
+    },
+    {
+      "subject": 93,
+      "age": 40,
+      "signal": 1.4074818613137168,
+      "outcome": 1,
+      "post_event_result": 0.9955746428810781,
+      "day": 93
+    },
+    {
+      "subject": 94,
+      "age": 69,
+      "signal": 0.09058490690174555,
+      "outcome": 0,
+      "post_event_result": 0.014550455762707113,
+      "day": 94
+    },
+    {
+      "subject": 95,
+      "age": 34,
+      "signal": 0.6439387932768579,
+      "outcome": 0,
+      "post_event_result": 0.0013148581680545218,
+      "day": 95
+    },
+    {
+      "subject": 96,
+      "age": 31,
+      "signal": -2.0501721010310225,
+      "outcome": 0,
+      "post_event_result": 0.002582288233226952,
+      "day": 96
+    },
+    {
+      "subject": 97,
+      "age": 56,
+      "signal": -0.04871840193011795,
+      "outcome": 1,
+      "post_event_result": 1.015647180216699,
+      "day": 97
+    },
+    {
+      "subject": 98,
+      "age": 54,
+      "signal": -0.8432302702928711,
+      "outcome": 1,
+      "post_event_result": 0.9963822952255583,
+      "day": 98
+    },
+    {
+      "subject": 99,
+      "age": 25,
+      "signal": -1.218813060423628,
+      "outcome": 1,
+      "post_event_result": 0.9905887790407504,
+      "day": 99
+    },
+    {
+      "subject": 100,
+      "age": 65,
+      "signal": -0.8781523669287508,
+      "outcome": 0,
+      "post_event_result": -0.0044856420802835435,
+      "day": 100
+    },
+    {
+      "subject": 101,
+      "age": 29,
+      "signal": -0.33412344070081207,
+      "outcome": 0,
+      "post_event_result": 0.004523339506431387,
+      "day": 101
+    },
+    {
+      "subject": 102,
+      "age": 63,
+      "signal": 0.9159025423560131,
+      "outcome": 0,
+      "post_event_result": -0.015657590721805142,
+      "day": 102
+    },
+    {
+      "subject": 103,
+      "age": 18,
+      "signal": -1.326392717739564,
+      "outcome": 1,
+      "post_event_result": 1.0063747090265112,
+      "day": 103
+    },
+    {
+      "subject": 104,
+      "age": 63,
+      "signal": 0.030631492594417446,
+      "outcome": 0,
+      "post_event_result": -0.005387713176177433,
+      "day": 104
+    },
+    {
+      "subject": 105,
+      "age": 62,
+      "signal": -0.4841694333335785,
+      "outcome": 1,
+      "post_event_result": 1.0114781266073356,
+      "day": 105
+    },
+    {
+      "subject": 106,
+      "age": 62,
+      "signal": -0.32767309436196085,
+      "outcome": 1,
+      "post_event_result": 0.9760573969509952,
+      "day": 106
+    },
+    {
+      "subject": 107,
+      "age": 55,
+      "signal": 1.0027578253046041,
+      "outcome": 0,
+      "post_event_result": -0.007865657751041687,
+      "day": 107
+    },
+    {
+      "subject": 108,
+      "age": 44,
+      "signal": 0.5381154370039261,
+      "outcome": 0,
+      "post_event_result": -0.01686468151234102,
+      "day": 108
+    },
+    {
+      "subject": 109,
+      "age": 58,
+      "signal": 1.3373981074427437,
+      "outcome": 0,
+      "post_event_result": -0.008262294663639525,
+      "day": 109
+    },
+    {
+      "subject": 110,
+      "age": 33,
+      "signal": -0.15450567924990047,
+      "outcome": 1,
+      "post_event_result": 1.0024766590110894,
+      "day": 110
+    },
+    {
+      "subject": 111,
+      "age": 62,
+      "signal": -0.695942611670703,
+      "outcome": 1,
+      "post_event_result": 0.9982077337455024,
+      "day": 111
+    },
+    {
+      "subject": 112,
+      "age": 49,
+      "signal": -0.22385881688049952,
+      "outcome": 0,
+      "post_event_result": -0.0025337756894801495,
+      "day": 112
+    },
+    {
+      "subject": 113,
+      "age": 44,
+      "signal": 0.2424967912712216,
+      "outcome": 0,
+      "post_event_result": -0.001591848713800608,
+      "day": 113
+    },
+    {
+      "subject": 114,
+      "age": 46,
+      "signal": 0.17657335845371103,
+      "outcome": 1,
+      "post_event_result": 1.0020338824061994,
+      "day": 114
+    },
+    {
+      "subject": 115,
+      "age": 50,
+      "signal": -1.0843880722333665,
+      "outcome": 0,
+      "post_event_result": -0.010085360419431078,
+      "day": 115
+    },
+    {
+      "subject": 116,
+      "age": 20,
+      "signal": 0.09048978162787422,
+      "outcome": 0,
+      "post_event_result": 0.007068496408990508,
+      "day": 116
+    },
+    {
+      "subject": 117,
+      "age": 25,
+      "signal": 0.22822833013890514,
+      "outcome": 0,
+      "post_event_result": 0.006626659703854839,
+      "day": 117
+    },
+    {
+      "subject": 118,
+      "age": 31,
+      "signal": 2.5174740375339204,
+      "outcome": 0,
+      "post_event_result": 0.00385037937656101,
+      "day": 118
+    },
+    {
+      "subject": 119,
+      "age": 24,
+      "signal": 1.8768446112816701,
+      "outcome": 0,
+      "post_event_result": 0.005565334427512632,
+      "day": 119
+    },
+    {
+      "subject": 120,
+      "age": 43,
+      "signal": -0.8532433505588201,
+      "outcome": 1,
+      "post_event_result": 1.0029641800080866,
+      "day": 120
+    },
+    {
+      "subject": 121,
+      "age": 56,
+      "signal": -0.2873833615491761,
+      "outcome": 1,
+      "post_event_result": 1.0203507330273107,
+      "day": 121
+    },
+    {
+      "subject": 122,
+      "age": 55,
+      "signal": -1.4634420018370031,
+      "outcome": 1,
+      "post_event_result": 0.9991290582894748,
+      "day": 122
+    },
+    {
+      "subject": 123,
+      "age": 44,
+      "signal": -0.5907070139634865,
+      "outcome": 1,
+      "post_event_result": 0.9969291678166542,
+      "day": 123
+    },
+    {
+      "subject": 124,
+      "age": 66,
+      "signal": 0.3156050035903405,
+      "outcome": 1,
+      "post_event_result": 0.9924647241964262,
+      "day": 124
+    },
+    {
+      "subject": 125,
+      "age": 50,
+      "signal": 1.2058536208882336,
+      "outcome": 0,
+      "post_event_result": -0.010322626705778368,
+      "day": 125
+    },
+    {
+      "subject": 126,
+      "age": 22,
+      "signal": -0.7290838377436085,
+      "outcome": 0,
+      "post_event_result": -0.012444717876010754,
+      "day": 126
+    },
+    {
+      "subject": 127,
+      "age": 61,
+      "signal": -0.6541464400677965,
+      "outcome": 1,
+      "post_event_result": 0.9911120268676908,
+      "day": 127
+    },
+    {
+      "subject": 128,
+      "age": 50,
+      "signal": -2.147289029738655,
+      "outcome": 0,
+      "post_event_result": -0.0007068038165207131,
+      "day": 128
+    },
+    {
+      "subject": 129,
+      "age": 54,
+      "signal": -0.16266592054490767,
+      "outcome": 1,
+      "post_event_result": 1.0033429512849772,
+      "day": 129
+    },
+    {
+      "subject": 130,
+      "age": 50,
+      "signal": -1.062414411859563,
+      "outcome": 1,
+      "post_event_result": 1.0005114205855217,
+      "day": 130
+    },
+    {
+      "subject": 131,
+      "age": 49,
+      "signal": -0.5294394273660737,
+      "outcome": 0,
+      "post_event_result": -0.00765535277429713,
+      "day": 131
+    },
+    {
+      "subject": 132,
+      "age": 23,
+      "signal": -0.8768607781675882,
+      "outcome": 1,
+      "post_event_result": 1.0090018456401997,
+      "day": 132
+    },
+    {
+      "subject": 133,
+      "age": 49,
+      "signal": -0.09426255425255699,
+      "outcome": 1,
+      "post_event_result": 1.0073941267230095,
+      "day": 133
+    },
+    {
+      "subject": 134,
+      "age": 63,
+      "signal": -1.7577283913566313,
+      "outcome": 0,
+      "post_event_result": -0.00159648307422017,
+      "day": 134
+    },
+    {
+      "subject": 135,
+      "age": 35,
+      "signal": -1.4670452453909906,
+      "outcome": 0,
+      "post_event_result": -0.006529161446647121,
+      "day": 135
+    },
+    {
+      "subject": 136,
+      "age": 52,
+      "signal": 2.129247112028298,
+      "outcome": 1,
+      "post_event_result": 1.005484279208298,
+      "day": 136
+    },
+    {
+      "subject": 137,
+      "age": 19,
+      "signal": -1.287422581274031,
+      "outcome": 1,
+      "post_event_result": 1.001879735874861,
+      "day": 137
+    },
+    {
+      "subject": 138,
+      "age": 37,
+      "signal": -1.0967855784546396,
+      "outcome": 0,
+      "post_event_result": -0.014481272594150477,
+      "day": 138
+    },
+    {
+      "subject": 139,
+      "age": 42,
+      "signal": 1.836913528321314,
+      "outcome": 1,
+      "post_event_result": 0.999320197440156,
+      "day": 139
+    },
+    {
+      "subject": 140,
+      "age": 74,
+      "signal": 2.905067169240407,
+      "outcome": 0,
+      "post_event_result": 0.0026203581207438105,
+      "day": 140
+    },
+    {
+      "subject": 141,
+      "age": 30,
+      "signal": -1.1715666288253417,
+      "outcome": 1,
+      "post_event_result": 0.9910030521351224,
+      "day": 141
+    },
+    {
+      "subject": 142,
+      "age": 33,
+      "signal": -0.36824895678803055,
+      "outcome": 1,
+      "post_event_result": 1.0018984339283745,
+      "day": 142
+    },
+    {
+      "subject": 143,
+      "age": 41,
+      "signal": 0.34155555094050954,
+      "outcome": 0,
+      "post_event_result": -0.014548224852577892,
+      "day": 143
+    },
+    {
+      "subject": 144,
+      "age": 74,
+      "signal": 1.7286976444055924,
+      "outcome": 1,
+      "post_event_result": 1.0133618610001216,
+      "day": 144
+    },
+    {
+      "subject": 145,
+      "age": 66,
+      "signal": -0.9868570784282374,
+      "outcome": 1,
+      "post_event_result": 1.0124794998505944,
+      "day": 145
+    },
+    {
+      "subject": 146,
+      "age": 19,
+      "signal": -0.24527784594210975,
+      "outcome": 1,
+      "post_event_result": 0.9974748266569704,
+      "day": 146
+    },
+    {
+      "subject": 147,
+      "age": 31,
+      "signal": 0.777337576061744,
+      "outcome": 0,
+      "post_event_result": 0.0036345433783907316,
+      "day": 147
+    },
+    {
+      "subject": 148,
+      "age": 64,
+      "signal": 0.43476607446661863,
+      "outcome": 0,
+      "post_event_result": -0.02409921965799875,
+      "day": 148
+    },
+    {
+      "subject": 149,
+      "age": 21,
+      "signal": -0.37615607123009925,
+      "outcome": 0,
+      "post_event_result": -0.01156347660265333,
+      "day": 149
+    },
+    {
+      "subject": 150,
+      "age": 66,
+      "signal": -0.13382296451604114,
+      "outcome": 0,
+      "post_event_result": -0.002937789201521298,
+      "day": 150
+    },
+    {
+      "subject": 151,
+      "age": 34,
+      "signal": -1.3748958083699818,
+      "outcome": 0,
+      "post_event_result": -0.010721330214268592,
+      "day": 151
+    },
+    {
+      "subject": 152,
+      "age": 70,
+      "signal": -0.23817374397466523,
+      "outcome": 1,
+      "post_event_result": 1.0071439648263065,
+      "day": 152
+    },
+    {
+      "subject": 153,
+      "age": 34,
+      "signal": -0.2663874900089551,
+      "outcome": 1,
+      "post_event_result": 1.0199729653074798,
+      "day": 153
+    },
+    {
+      "subject": 154,
+      "age": 42,
+      "signal": 0.23216988962625595,
+      "outcome": 1,
+      "post_event_result": 0.988233852805707,
+      "day": 154
+    },
+    {
+      "subject": 155,
+      "age": 55,
+      "signal": -0.555327218819016,
+      "outcome": 0,
+      "post_event_result": -0.008374634040851927,
+      "day": 155
+    },
+    {
+      "subject": 156,
+      "age": 25,
+      "signal": 0.471538522545139,
+      "outcome": 0,
+      "post_event_result": 0.0023544836830993033,
+      "day": 156
+    },
+    {
+      "subject": 157,
+      "age": 49,
+      "signal": 1.0127158178198286,
+      "outcome": 1,
+      "post_event_result": 1.0161111614849963,
+      "day": 157
+    },
+    {
+      "subject": 158,
+      "age": 46,
+      "signal": 0.15542932766846604,
+      "outcome": 0,
+      "post_event_result": -0.012223743125399032,
+      "day": 158
+    },
+    {
+      "subject": 159,
+      "age": 62,
+      "signal": 0.35175640839920347,
+      "outcome": 1,
+      "post_event_result": 1.0024903612230693,
+      "day": 159
+    },
+    {
+      "subject": 160,
+      "age": 74,
+      "signal": 0.053155347577867364,
+      "outcome": 1,
+      "post_event_result": 1.018212988508131,
+      "day": 160
+    },
+    {
+      "subject": 161,
+      "age": 55,
+      "signal": 8.439309141418043e-05,
+      "outcome": 0,
+      "post_event_result": -0.016517591481792673,
+      "day": 161
+    },
+    {
+      "subject": 162,
+      "age": 41,
+      "signal": -0.7215580335428474,
+      "outcome": 0,
+      "post_event_result": -0.012810692068458321,
+      "day": 162
+    },
+    {
+      "subject": 163,
+      "age": 41,
+      "signal": 0.316494261673308,
+      "outcome": 0,
+      "post_event_result": -0.004236066064608383,
+      "day": 163
+    },
+    {
+      "subject": 164,
+      "age": 41,
+      "signal": -0.09728659841348947,
+      "outcome": 0,
+      "post_event_result": -0.00520588412855411,
+      "day": 164
+    },
+    {
+      "subject": 165,
+      "age": 64,
+      "signal": 2.093168308930595,
+      "outcome": 0,
+      "post_event_result": 0.008126012877536446,
+      "day": 165
+    },
+    {
+      "subject": 166,
+      "age": 36,
+      "signal": 1.5733549024752425,
+      "outcome": 1,
+      "post_event_result": 1.0024165971982084,
+      "day": 166
+    },
+    {
+      "subject": 167,
+      "age": 27,
+      "signal": 0.3858465525565008,
+      "outcome": 1,
+      "post_event_result": 0.9822503794035787,
+      "day": 167
+    },
+    {
+      "subject": 168,
+      "age": 37,
+      "signal": -0.7630572096947675,
+      "outcome": 1,
+      "post_event_result": 1.0051541040290082,
+      "day": 168
+    },
+    {
+      "subject": 169,
+      "age": 19,
+      "signal": -1.112411471983418,
+      "outcome": 1,
+      "post_event_result": 0.9942246111264434,
+      "day": 169
+    },
+    {
+      "subject": 170,
+      "age": 24,
+      "signal": 1.191142953088865,
+      "outcome": 1,
+      "post_event_result": 1.0127444721694123,
+      "day": 170
+    },
+    {
+      "subject": 171,
+      "age": 23,
+      "signal": 0.2627492251471385,
+      "outcome": 0,
+      "post_event_result": -0.0062758753643691965,
+      "day": 171
+    },
+    {
+      "subject": 172,
+      "age": 61,
+      "signal": 0.4801434033916108,
+      "outcome": 0,
+      "post_event_result": -0.006366152831022357,
+      "day": 172
+    },
+    {
+      "subject": 173,
+      "age": 59,
+      "signal": -1.7445859869741926,
+      "outcome": 1,
+      "post_event_result": 1.0054113161080453,
+      "day": 173
+    },
+    {
+      "subject": 174,
+      "age": 57,
+      "signal": 0.9274384815581808,
+      "outcome": 0,
+      "post_event_result": 0.007629264823369366,
+      "day": 174
+    },
+    {
+      "subject": 175,
+      "age": 44,
+      "signal": 0.45442033821436295,
+      "outcome": 0,
+      "post_event_result": 0.004480993639362036,
+      "day": 175
+    },
+    {
+      "subject": 176,
+      "age": 58,
+      "signal": -1.110430684414478,
+      "outcome": 1,
+      "post_event_result": 0.9831440268261519,
+      "day": 176
+    },
+    {
+      "subject": 177,
+      "age": 27,
+      "signal": -0.47152480744994896,
+      "outcome": 1,
+      "post_event_result": 1.0053803443992826,
+      "day": 177
+    },
+    {
+      "subject": 178,
+      "age": 69,
+      "signal": 0.2637172043565196,
+      "outcome": 1,
+      "post_event_result": 0.989656919483256,
+      "day": 178
+    },
+    {
+      "subject": 179,
+      "age": 46,
+      "signal": 0.05246679835624363,
+      "outcome": 1,
+      "post_event_result": 1.0023527611158827,
+      "day": 179
+    },
+    {
+      "subject": 180,
+      "age": 71,
+      "signal": -0.292171185803555,
+      "outcome": 0,
+      "post_event_result": -0.014237344353990601,
+      "day": 180
+    },
+    {
+      "subject": 181,
+      "age": 26,
+      "signal": -0.10348826806596086,
+      "outcome": 1,
+      "post_event_result": 1.0044632214754305,
+      "day": 181
+    },
+    {
+      "subject": 182,
+      "age": 46,
+      "signal": -0.25197737820688537,
+      "outcome": 1,
+      "post_event_result": 0.9919340109569262,
+      "day": 182
+    },
+    {
+      "subject": 183,
+      "age": 57,
+      "signal": 0.15256251210246857,
+      "outcome": 1,
+      "post_event_result": 0.9871736534973948,
+      "day": 183
+    },
+    {
+      "subject": 184,
+      "age": 46,
+      "signal": 1.471491972993157,
+      "outcome": 1,
+      "post_event_result": 1.007138201364824,
+      "day": 184
+    },
+    {
+      "subject": 185,
+      "age": 43,
+      "signal": -2.5666584409312976,
+      "outcome": 1,
+      "post_event_result": 1.0024164452167674,
+      "day": 185
+    },
+    {
+      "subject": 186,
+      "age": 27,
+      "signal": -0.23685026450968424,
+      "outcome": 0,
+      "post_event_result": -0.006139768013928971,
+      "day": 186
+    },
+    {
+      "subject": 187,
+      "age": 39,
+      "signal": 0.17651242137244696,
+      "outcome": 0,
+      "post_event_result": 0.014511788490210642,
+      "day": 187
+    },
+    {
+      "subject": 188,
+      "age": 31,
+      "signal": 0.2959939896870995,
+      "outcome": 0,
+      "post_event_result": -0.0044065242156974245,
+      "day": 188
+    },
+    {
+      "subject": 189,
+      "age": 35,
+      "signal": -0.37191458132128985,
+      "outcome": 0,
+      "post_event_result": 0.0003210767397093466,
+      "day": 189
+    },
+    {
+      "subject": 190,
+      "age": 56,
+      "signal": -1.7567217824785826,
+      "outcome": 0,
+      "post_event_result": 0.0026891344767860093,
+      "day": 190
+    },
+    {
+      "subject": 191,
+      "age": 53,
+      "signal": 0.32799548371410964,
+      "outcome": 0,
+      "post_event_result": -0.006196659341286136,
+      "day": 191
+    },
+    {
+      "subject": 192,
+      "age": 52,
+      "signal": 1.727350214164185,
+      "outcome": 1,
+      "post_event_result": 1.0047113629339992,
+      "day": 192
+    },
+    {
+      "subject": 193,
+      "age": 38,
+      "signal": -1.5338614049161376,
+      "outcome": 1,
+      "post_event_result": 0.9946654765283528,
+      "day": 193
+    },
+    {
+      "subject": 194,
+      "age": 72,
+      "signal": 0.8638280136981883,
+      "outcome": 1,
+      "post_event_result": 0.9958836167778379,
+      "day": 194
+    },
+    {
+      "subject": 195,
+      "age": 22,
+      "signal": -0.3285252231228939,
+      "outcome": 1,
+      "post_event_result": 1.0136264263980335,
+      "day": 195
+    },
+    {
+      "subject": 196,
+      "age": 37,
+      "signal": -0.0613243458288473,
+      "outcome": 1,
+      "post_event_result": 0.9895941394748756,
+      "day": 196
+    },
+    {
+      "subject": 197,
+      "age": 24,
+      "signal": -1.052898510703949,
+      "outcome": 1,
+      "post_event_result": 0.9758721966907051,
+      "day": 197
+    },
+    {
+      "subject": 198,
+      "age": 37,
+      "signal": -0.33445617235587666,
+      "outcome": 0,
+      "post_event_result": 0.016109369950118944,
+      "day": 198
+    },
+    {
+      "subject": 199,
+      "age": 72,
+      "signal": 1.3000445946989585,
+      "outcome": 1,
+      "post_event_result": 1.02549327952607,
+      "day": 199
+    },
+    {
+      "subject": 200,
+      "age": 38,
+      "signal": 0.582655241987707,
+      "outcome": 0,
+      "post_event_result": -0.004052692654493318,
+      "day": 200
+    },
+    {
+      "subject": 201,
+      "age": 69,
+      "signal": 1.732311605409944,
+      "outcome": 0,
+      "post_event_result": -0.019368380406201854,
+      "day": 201
+    },
+    {
+      "subject": 202,
+      "age": 46,
+      "signal": 1.1774118889776937,
+      "outcome": 1,
+      "post_event_result": 0.9968951602380406,
+      "day": 202
+    },
+    {
+      "subject": 203,
+      "age": 57,
+      "signal": 0.4390866789295762,
+      "outcome": 1,
+      "post_event_result": 0.9971377705015934,
+      "day": 203
+    },
+    {
+      "subject": 204,
+      "age": 44,
+      "signal": 1.743934526167792,
+      "outcome": 0,
+      "post_event_result": -0.0018992384102225705,
+      "day": 204
+    },
+    {
+      "subject": 205,
+      "age": 33,
+      "signal": 0.43899315873829875,
+      "outcome": 0,
+      "post_event_result": -0.011133880419218483,
+      "day": 205
+    },
+    {
+      "subject": 206,
+      "age": 61,
+      "signal": 0.8279881767970589,
+      "outcome": 0,
+      "post_event_result": 0.005795611424764774,
+      "day": 206
+    },
+    {
+      "subject": 207,
+      "age": 73,
+      "signal": -0.29657095353470836,
+      "outcome": 0,
+      "post_event_result": 0.005245073752860862,
+      "day": 207
+    },
+    {
+      "subject": 208,
+      "age": 33,
+      "signal": 0.06654581585920483,
+      "outcome": 0,
+      "post_event_result": -0.014944056198193065,
+      "day": 208
+    },
+    {
+      "subject": 209,
+      "age": 62,
+      "signal": -0.6974238233002769,
+      "outcome": 1,
+      "post_event_result": 1.006991967316949,
+      "day": 209
+    },
+    {
+      "subject": 210,
+      "age": 32,
+      "signal": 0.989583934594853,
+      "outcome": 1,
+      "post_event_result": 1.0205268498194588,
+      "day": 210
+    },
+    {
+      "subject": 211,
+      "age": 58,
+      "signal": -1.1783036231148656,
+      "outcome": 1,
+      "post_event_result": 1.0017196033243705,
+      "day": 211
+    },
+    {
+      "subject": 212,
+      "age": 62,
+      "signal": 0.7823503424176613,
+      "outcome": 1,
+      "post_event_result": 0.996626748379315,
+      "day": 212
+    },
+    {
+      "subject": 213,
+      "age": 43,
+      "signal": -0.19065105750515945,
+      "outcome": 1,
+      "post_event_result": 0.9985799678559247,
+      "day": 213
+    },
+    {
+      "subject": 214,
+      "age": 60,
+      "signal": 1.1712470934673194,
+      "outcome": 1,
+      "post_event_result": 1.0061525676696856,
+      "day": 214
+    },
+    {
+      "subject": 215,
+      "age": 33,
+      "signal": 0.7508689887312598,
+      "outcome": 0,
+      "post_event_result": -0.017306716055072183,
+      "day": 215
+    },
+    {
+      "subject": 216,
+      "age": 22,
+      "signal": 1.8206461576468016,
+      "outcome": 0,
+      "post_event_result": 0.0016439070297730224,
+      "day": 216
+    },
+    {
+      "subject": 217,
+      "age": 23,
+      "signal": 0.7307746911386448,
+      "outcome": 1,
+      "post_event_result": 0.996095360505372,
+      "day": 217
+    },
+    {
+      "subject": 218,
+      "age": 43,
+      "signal": -1.5720402556532407,
+      "outcome": 0,
+      "post_event_result": 0.018478250129560454,
+      "day": 218
+    },
+    {
+      "subject": 219,
+      "age": 69,
+      "signal": -0.06695317289820084,
+      "outcome": 0,
+      "post_event_result": -0.0017417273380495788,
+      "day": 219
+    },
+    {
+      "subject": 0,
+      "age": 23,
+      "signal": 0.8403081374573955,
+      "outcome": 1,
+      "post_event_result": 0.9986891334931227,
+      "day": 0
+    },
+    {
+      "subject": 1,
+      "age": 62,
+      "signal": -1.7273204231923487,
+      "outcome": 1,
+      "post_event_result": 0.9816909417415247,
+      "day": 1
+    },
+    {
+      "subject": 2,
+      "age": 55,
+      "signal": 0.43442364354585733,
+      "outcome": 0,
+      "post_event_result": 0.009282969915684844,
+      "day": 2
+    },
+    {
+      "subject": 3,
+      "age": 43,
+      "signal": 0.2377356023322779,
+      "outcome": 1,
+      "post_event_result": 0.9939499928719127,
+      "day": 3
+    },
+    {
+      "subject": 4,
+      "age": 42,
+      "signal": -0.5941499556967944,
+      "outcome": 0,
+      "post_event_result": -0.005339002383735546,
+      "day": 4
+    },
+    {
+      "subject": 5,
+      "age": 66,
+      "signal": -1.4460578543884546,
+      "outcome": 1,
+      "post_event_result": 0.9893024758871031,
+      "day": 5
+    },
+    {
+      "subject": 6,
+      "age": 22,
+      "signal": 0.07212950771386951,
+      "outcome": 0,
+      "post_event_result": -0.0065428327668755545,
+      "day": 6
+    },
+    {
+      "subject": 7,
+      "age": 57,
+      "signal": -0.5294927090638024,
+      "outcome": 1,
+      "post_event_result": 1.0042789044069491,
+      "day": 7
+    },
+    {
+      "subject": 8,
+      "age": 29,
+      "signal": 0.23267621135470395,
+      "outcome": 1,
+      "post_event_result": 0.998107556590636,
+      "day": 8
+    },
+    {
+      "subject": 9,
+      "age": 23,
+      "signal": 0.02185214552344288,
+      "outcome": 1,
+      "post_event_result": 1.0032866200228248,
+      "day": 9
+    },
+    {
+      "subject": 10,
+      "age": 48,
+      "signal": 1.6017788913209154,
+      "outcome": 1,
+      "post_event_result": 1.0036192185392885,
+      "day": 10
+    },
+    {
+      "subject": 11,
+      "age": 73,
+      "signal": -0.23935562747302427,
+      "outcome": 1,
+      "post_event_result": 1.0132066165552818,
+      "day": 11
+    },
+    {
+      "subject": 12,
+      "age": 59,
+      "signal": -1.023497492621865,
+      "outcome": 0,
+      "post_event_result": -0.0034278615086437932,
+      "day": 12
+    },
+    {
+      "subject": 13,
+      "age": 61,
+      "signal": 0.17927563495631615,
+      "outcome": 0,
+      "post_event_result": -0.014768578168457318,
+      "day": 13
+    },
+    {
+      "subject": 14,
+      "age": 58,
+      "signal": 0.21999668397176517,
+      "outcome": 1,
+      "post_event_result": 1.0106722241657198,
+      "day": 14
+    },
+    {
+      "subject": 15,
+      "age": 62,
+      "signal": 1.3591875752404365,
+      "outcome": 1,
+      "post_event_result": 0.9966851182790275,
+      "day": 15
+    },
+    {
+      "subject": 16,
+      "age": 47,
+      "signal": 0.8351112459145785,
+      "outcome": 0,
+      "post_event_result": 0.01114592444577377,
+      "day": 16
+    },
+    {
+      "subject": 17,
+      "age": 25,
+      "signal": 0.35687105914950934,
+      "outcome": 0,
+      "post_event_result": 0.003833771131824704,
+      "day": 17
+    },
+    {
+      "subject": 18,
+      "age": 65,
+      "signal": 1.4633028912195618,
+      "outcome": 1,
+      "post_event_result": 0.9986886246979666,
+      "day": 18
+    },
+    {
+      "subject": 19,
+      "age": 43,
+      "signal": -1.188763054322851,
+      "outcome": 1,
+      "post_event_result": 1.003487758940463,
+      "day": 19
+    },
+    {
+      "subject": 20,
+      "age": 46,
+      "signal": -0.6397515327497477,
+      "outcome": 0,
+      "post_event_result": 0.019510125601262997,
+      "day": 20
+    },
+    {
+      "subject": 21,
+      "age": 39,
+      "signal": -0.9265759414055249,
+      "outcome": 0,
+      "post_event_result": 0.02076980529053753,
+      "day": 21
+    },
+    {
+      "subject": 22,
+      "age": 28,
+      "signal": -0.38980980315576796,
+      "outcome": 0,
+      "post_event_result": 0.000693811351327787,
+      "day": 22
+    },
+    {
+      "subject": 23,
+      "age": 70,
+      "signal": -1.3766861475563088,
+      "outcome": 1,
+      "post_event_result": 1.0016019059331707,
+      "day": 23
+    },
+    {
+      "subject": 24,
+      "age": 62,
+      "signal": 0.6351509468144043,
+      "outcome": 0,
+      "post_event_result": 0.010762401574663856,
+      "day": 24
+    },
+    {
+      "subject": 25,
+      "age": 54,
+      "signal": -0.22222269709877338,
+      "outcome": 1,
+      "post_event_result": 0.9915433896723266,
+      "day": 25
+    },
+    {
+      "subject": 26,
+      "age": 40,
+      "signal": -1.4708062945026579,
+      "outcome": 0,
+      "post_event_result": 0.003330703726182551,
+      "day": 26
+    },
+    {
+      "subject": 27,
+      "age": 64,
+      "signal": -1.0155790812075416,
+      "outcome": 0,
+      "post_event_result": -0.00025862847953856403,
+      "day": 27
+    },
+    {
+      "subject": 28,
+      "age": 49,
+      "signal": 0.3135138474501953,
+      "outcome": 1,
+      "post_event_result": 1.0031390821145756,
+      "day": 28
+    },
+    {
+      "subject": 29,
+      "age": 43,
+      "signal": 0.8381265678943811,
+      "outcome": 1,
+      "post_event_result": 0.9916663119405059,
+      "day": 29
+    },
+    {
+      "subject": 30,
+      "age": 43,
+      "signal": 1.9967308916917865,
+      "outcome": 1,
+      "post_event_result": 0.9841043250669103,
+      "day": 30
+    },
+    {
+      "subject": 31,
+      "age": 30,
+      "signal": 2.9138624660073296,
+      "outcome": 1,
+      "post_event_result": 0.9792701656400871,
+      "day": 31
+    },
+    {
+      "subject": 32,
+      "age": 23,
+      "signal": 0.4144094332759964,
+      "outcome": 1,
+      "post_event_result": 0.9888261588701039,
+      "day": 32
+    },
+    {
+      "subject": 33,
+      "age": 49,
+      "signal": -0.9895381200318641,
+      "outcome": 1,
+      "post_event_result": 0.9954132471506066,
+      "day": 33
+    },
+    {
+      "subject": 34,
+      "age": 68,
+      "signal": -2.132046280731309,
+      "outcome": 1,
+      "post_event_result": 0.9970680841335123,
+      "day": 34
+    },
+    {
+      "subject": 35,
+      "age": 21,
+      "signal": 0.2677114623438358,
+      "outcome": 0,
+      "post_event_result": 0.01937231162429517,
+      "day": 35
+    },
+    {
+      "subject": 36,
+      "age": 66,
+      "signal": -0.812941095310326,
+      "outcome": 0,
+      "post_event_result": 0.011059933699072981,
+      "day": 36
+    },
+    {
+      "subject": 37,
+      "age": 65,
+      "signal": -0.41535726017968533,
+      "outcome": 1,
+      "post_event_result": 0.9903790888365838,
+      "day": 37
+    },
+    {
+      "subject": 38,
+      "age": 33,
+      "signal": -0.6120967990598081,
+      "outcome": 0,
+      "post_event_result": 0.0034770845245095695,
+      "day": 38
+    },
+    {
+      "subject": 39,
+      "age": 54,
+      "signal": -0.14079088641638526,
+      "outcome": 1,
+      "post_event_result": 0.9959292176364968,
+      "day": 39
+    },
+    {
+      "subject": 40,
+      "age": 27,
+      "signal": 1.0659802307876436,
+      "outcome": 1,
+      "post_event_result": 0.9971563616195991,
+      "day": 40
+    },
+    {
+      "subject": 41,
+      "age": 61,
+      "signal": 0.15704856744534462,
+      "outcome": 0,
+      "post_event_result": 0.0018532564941538203,
+      "day": 41
+    },
+    {
+      "subject": 42,
+      "age": 57,
+      "signal": -0.1586348370386883,
+      "outcome": 1,
+      "post_event_result": 1.006191711169754,
+      "day": 42
+    },
+    {
+      "subject": 43,
+      "age": 38,
+      "signal": -1.0356537528258116,
+      "outcome": 0,
+      "post_event_result": -0.0033925848388401537,
+      "day": 43
+    },
+    {
+      "subject": 44,
+      "age": 21,
+      "signal": -1.674682944704357,
+      "outcome": 1,
+      "post_event_result": 1.0106385153273436,
+      "day": 44
+    },
+    {
+      "subject": 45,
+      "age": 73,
+      "signal": -0.4863079090733309,
+      "outcome": 0,
+      "post_event_result": -0.011419382261424041,
+      "day": 45
+    },
+    {
+      "subject": 46,
+      "age": 43,
+      "signal": -0.05378255081832049,
+      "outcome": 0,
+      "post_event_result": 6.339062362268442e-05,
+      "day": 46
+    },
+    {
+      "subject": 47,
+      "age": 68,
+      "signal": 1.767929913579883,
+      "outcome": 1,
+      "post_event_result": 1.0259767372659583,
+      "day": 47
+    },
+    {
+      "subject": 48,
+      "age": 56,
+      "signal": 0.13027452147288585,
+      "outcome": 1,
+      "post_event_result": 1.0022307974262528,
+      "day": 48
+    },
+    {
+      "subject": 49,
+      "age": 62,
+      "signal": 0.9827395110230576,
+      "outcome": 0,
+      "post_event_result": 0.014332145066061728,
+      "day": 49
+    },
+    {
+      "subject": 50,
+      "age": 61,
+      "signal": -0.49929559853915206,
+      "outcome": 1,
+      "post_event_result": 1.000915201781732,
+      "day": 50
+    },
+    {
+      "subject": 51,
+      "age": 29,
+      "signal": -1.1849437664170246,
+      "outcome": 1,
+      "post_event_result": 1.005807770953298,
+      "day": 51
+    },
+    {
+      "subject": 52,
+      "age": 38,
+      "signal": -0.9651167622323719,
+      "outcome": 0,
+      "post_event_result": -0.0005678319439269153,
+      "day": 52
+    },
+    {
+      "subject": 53,
+      "age": 44,
+      "signal": -0.7252260645357532,
+      "outcome": 1,
+      "post_event_result": 0.998295924188358,
+      "day": 53
+    },
+    {
+      "subject": 54,
+      "age": 46,
+      "signal": 2.1284697324351645,
+      "outcome": 1,
+      "post_event_result": 0.9922051760327458,
+      "day": 54
+    },
+    {
+      "subject": 55,
+      "age": 20,
+      "signal": -0.8213866792243861,
+      "outcome": 0,
+      "post_event_result": 0.004303013589575532,
+      "day": 55
+    },
+    {
+      "subject": 56,
+      "age": 49,
+      "signal": 0.838489203736345,
+      "outcome": 1,
+      "post_event_result": 0.9914846281081423,
+      "day": 56
+    },
+    {
+      "subject": 57,
+      "age": 26,
+      "signal": -0.9029271780870264,
+      "outcome": 1,
+      "post_event_result": 1.0066558523631344,
+      "day": 57
+    },
+    {
+      "subject": 58,
+      "age": 60,
+      "signal": 0.9315730128742441,
+      "outcome": 1,
+      "post_event_result": 1.010852870044459,
+      "day": 58
+    },
+    {
+      "subject": 59,
+      "age": 56,
+      "signal": 0.38495096610586316,
+      "outcome": 1,
+      "post_event_result": 1.0036653140723724,
+      "day": 59
+    },
+    {
+      "subject": 60,
+      "age": 70,
+      "signal": -0.1566378976580904,
+      "outcome": 1,
+      "post_event_result": 0.9971375126644431,
+      "day": 60
+    },
+    {
+      "subject": 61,
+      "age": 60,
+      "signal": -0.040762526135434025,
+      "outcome": 0,
+      "post_event_result": 0.004539655793086961,
+      "day": 61
+    },
+    {
+      "subject": 62,
+      "age": 38,
+      "signal": -0.6547876954293904,
+      "outcome": 1,
+      "post_event_result": 0.9969132694445358,
+      "day": 62
+    },
+    {
+      "subject": 63,
+      "age": 73,
+      "signal": 0.44607220148208054,
+      "outcome": 0,
+      "post_event_result": 0.009355471254651493,
+      "day": 63
+    },
+    {
+      "subject": 64,
+      "age": 41,
+      "signal": -0.45498348034078,
+      "outcome": 1,
+      "post_event_result": 0.9816859391578487,
+      "day": 64
+    },
+    {
+      "subject": 65,
+      "age": 36,
+      "signal": -1.2256057637672482,
+      "outcome": 0,
+      "post_event_result": -0.0033560736811864625,
+      "day": 65
+    },
+    {
+      "subject": 66,
+      "age": 69,
+      "signal": -1.2779375743196193,
+      "outcome": 0,
+      "post_event_result": -0.019908119951239978,
+      "day": 66
+    },
+    {
+      "subject": 67,
+      "age": 39,
+      "signal": 0.17258791772211948,
+      "outcome": 0,
+      "post_event_result": -0.01495060830227205,
+      "day": 67
+    },
+    {
+      "subject": 68,
+      "age": 22,
+      "signal": 1.579091256410435,
+      "outcome": 1,
+      "post_event_result": 1.013638622298139,
+      "day": 68
+    },
+    {
+      "subject": 69,
+      "age": 44,
+      "signal": 0.15999161357343825,
+      "outcome": 0,
+      "post_event_result": 0.00895184981971686,
+      "day": 69
+    },
+    {
+      "subject": 70,
+      "age": 63,
+      "signal": -0.11863832610988256,
+      "outcome": 0,
+      "post_event_result": -0.007194802332847904,
+      "day": 70
+    },
+    {
+      "subject": 71,
+      "age": 28,
+      "signal": 0.2858261396025429,
+      "outcome": 1,
+      "post_event_result": 0.9849749654395911,
+      "day": 71
+    },
+    {
+      "subject": 72,
+      "age": 44,
+      "signal": 1.3060017417068248,
+      "outcome": 1,
+      "post_event_result": 0.9703547116215835,
+      "day": 72
+    },
+    {
+      "subject": 73,
+      "age": 25,
+      "signal": 0.21938250136385634,
+      "outcome": 0,
+      "post_event_result": -0.005434955079326346,
+      "day": 73
+    },
+    {
+      "subject": 74,
+      "age": 57,
+      "signal": -0.41092723083373717,
+      "outcome": 1,
+      "post_event_result": 1.0242041501224741,
+      "day": 74
+    },
+    {
+      "subject": 75,
+      "age": 45,
+      "signal": 1.1062887100598888,
+      "outcome": 0,
+      "post_event_result": 0.004348842714636474,
+      "day": 75
+    },
+    {
+      "subject": 76,
+      "age": 36,
+      "signal": 0.4287564384616135,
+      "outcome": 0,
+      "post_event_result": -0.005595722860494895,
+      "day": 76
+    },
+    {
+      "subject": 77,
+      "age": 30,
+      "signal": 1.535755991995992,
+      "outcome": 1,
+      "post_event_result": 1.0046508020950031,
+      "day": 77
+    },
+    {
+      "subject": 78,
+      "age": 50,
+      "signal": 0.18323443722190613,
+      "outcome": 0,
+      "post_event_result": -0.015609583529944428,
+      "day": 78
+    },
+    {
+      "subject": 79,
+      "age": 56,
+      "signal": -1.2244690317205003,
+      "outcome": 1,
+      "post_event_result": 0.9970267663730237,
+      "day": 79
+    },
+    {
+      "subject": 80,
+      "age": 71,
+      "signal": -1.368159199245665,
+      "outcome": 1,
+      "post_event_result": 1.0009947747301573,
+      "day": 80
+    },
+    {
+      "subject": 81,
+      "age": 42,
+      "signal": 1.6509279322312496,
+      "outcome": 1,
+      "post_event_result": 0.9991389934817895,
+      "day": 81
+    },
+    {
+      "subject": 82,
+      "age": 27,
+      "signal": 1.723665720783297,
+      "outcome": 0,
+      "post_event_result": 0.007908061216900806,
+      "day": 82
+    },
+    {
+      "subject": 83,
+      "age": 65,
+      "signal": -0.17951921328260065,
+      "outcome": 1,
+      "post_event_result": 1.0034464522623605,
+      "day": 83
+    },
+    {
+      "subject": 84,
+      "age": 53,
+      "signal": -0.38318732113598775,
+      "outcome": 1,
+      "post_event_result": 1.00668326018108,
+      "day": 84
+    },
+    {
+      "subject": 85,
+      "age": 57,
+      "signal": 1.4614442922422022,
+      "outcome": 0,
+      "post_event_result": -0.0068837228223075945,
+      "day": 85
+    },
+    {
+      "subject": 86,
+      "age": 23,
+      "signal": -1.107045682043488,
+      "outcome": 0,
+      "post_event_result": 0.008978154084105482,
+      "day": 86
+    },
+    {
+      "subject": 87,
+      "age": 35,
+      "signal": -0.8947270189558264,
+      "outcome": 0,
+      "post_event_result": 0.016289369476239914,
+      "day": 87
+    },
+    {
+      "subject": 88,
+      "age": 61,
+      "signal": 0.6433267946890444,
+      "outcome": 1,
+      "post_event_result": 0.9902985048034859,
+      "day": 88
+    },
+    {
+      "subject": 89,
+      "age": 65,
+      "signal": -0.3946051228595896,
+      "outcome": 1,
+      "post_event_result": 0.9911230434428544,
+      "day": 89
+    },
+    {
+      "subject": 90,
+      "age": 42,
+      "signal": -0.005121866720071296,
+      "outcome": 0,
+      "post_event_result": 0.013357843363202329,
+      "day": 90
+    },
+    {
+      "subject": 91,
+      "age": 63,
+      "signal": -0.16344289852451258,
+      "outcome": 1,
+      "post_event_result": 0.9980865601330494,
+      "day": 91
+    },
+    {
+      "subject": 92,
+      "age": 65,
+      "signal": 0.33757454879893356,
+      "outcome": 1,
+      "post_event_result": 1.0140382139206656,
+      "day": 92
+    },
+    {
+      "subject": 93,
+      "age": 40,
+      "signal": 1.4074818613137168,
+      "outcome": 1,
+      "post_event_result": 0.9955746428810781,
+      "day": 93
+    },
+    {
+      "subject": 94,
+      "age": 69,
+      "signal": 0.09058490690174555,
+      "outcome": 0,
+      "post_event_result": 0.014550455762707113,
+      "day": 94
+    },
+    {
+      "subject": 95,
+      "age": 34,
+      "signal": 0.6439387932768579,
+      "outcome": 0,
+      "post_event_result": 0.0013148581680545218,
+      "day": 95
+    },
+    {
+      "subject": 96,
+      "age": 31,
+      "signal": -2.0501721010310225,
+      "outcome": 0,
+      "post_event_result": 0.002582288233226952,
+      "day": 96
+    },
+    {
+      "subject": 97,
+      "age": 56,
+      "signal": -0.04871840193011795,
+      "outcome": 1,
+      "post_event_result": 1.015647180216699,
+      "day": 97
+    },
+    {
+      "subject": 98,
+      "age": 54,
+      "signal": -0.8432302702928711,
+      "outcome": 1,
+      "post_event_result": 0.9963822952255583,
+      "day": 98
+    },
+    {
+      "subject": 99,
+      "age": 25,
+      "signal": -1.218813060423628,
+      "outcome": 1,
+      "post_event_result": 0.9905887790407504,
+      "day": 99
+    },
+    {
+      "subject": 100,
+      "age": 65,
+      "signal": -0.8781523669287508,
+      "outcome": 0,
+      "post_event_result": -0.0044856420802835435,
+      "day": 100
+    },
+    {
+      "subject": 101,
+      "age": 29,
+      "signal": -0.33412344070081207,
+      "outcome": 0,
+      "post_event_result": 0.004523339506431387,
+      "day": 101
+    },
+    {
+      "subject": 102,
+      "age": 63,
+      "signal": 0.9159025423560131,
+      "outcome": 0,
+      "post_event_result": -0.015657590721805142,
+      "day": 102
+    },
+    {
+      "subject": 103,
+      "age": 18,
+      "signal": -1.326392717739564,
+      "outcome": 1,
+      "post_event_result": 1.0063747090265112,
+      "day": 103
+    },
+    {
+      "subject": 104,
+      "age": 63,
+      "signal": 0.030631492594417446,
+      "outcome": 0,
+      "post_event_result": -0.005387713176177433,
+      "day": 104
+    },
+    {
+      "subject": 105,
+      "age": 62,
+      "signal": -0.4841694333335785,
+      "outcome": 1,
+      "post_event_result": 1.0114781266073356,
+      "day": 105
+    },
+    {
+      "subject": 106,
+      "age": 62,
+      "signal": -0.32767309436196085,
+      "outcome": 1,
+      "post_event_result": 0.9760573969509952,
+      "day": 106
+    },
+    {
+      "subject": 107,
+      "age": 55,
+      "signal": 1.0027578253046041,
+      "outcome": 0,
+      "post_event_result": -0.007865657751041687,
+      "day": 107
+    },
+    {
+      "subject": 108,
+      "age": 44,
+      "signal": 0.5381154370039261,
+      "outcome": 0,
+      "post_event_result": -0.01686468151234102,
+      "day": 108
+    },
+    {
+      "subject": 109,
+      "age": 58,
+      "signal": 1.3373981074427437,
+      "outcome": 0,
+      "post_event_result": -0.008262294663639525,
+      "day": 109
+    },
+    {
+      "subject": 110,
+      "age": 33,
+      "signal": -0.15450567924990047,
+      "outcome": 1,
+      "post_event_result": 1.0024766590110894,
+      "day": 110
+    },
+    {
+      "subject": 111,
+      "age": 62,
+      "signal": -0.695942611670703,
+      "outcome": 1,
+      "post_event_result": 0.9982077337455024,
+      "day": 111
+    },
+    {
+      "subject": 112,
+      "age": 49,
+      "signal": -0.22385881688049952,
+      "outcome": 0,
+      "post_event_result": -0.0025337756894801495,
+      "day": 112
+    },
+    {
+      "subject": 113,
+      "age": 44,
+      "signal": 0.2424967912712216,
+      "outcome": 0,
+      "post_event_result": -0.001591848713800608,
+      "day": 113
+    },
+    {
+      "subject": 114,
+      "age": 46,
+      "signal": 0.17657335845371103,
+      "outcome": 1,
+      "post_event_result": 1.0020338824061994,
+      "day": 114
+    },
+    {
+      "subject": 115,
+      "age": 50,
+      "signal": -1.0843880722333665,
+      "outcome": 0,
+      "post_event_result": -0.010085360419431078,
+      "day": 115
+    },
+    {
+      "subject": 116,
+      "age": 20,
+      "signal": 0.09048978162787422,
+      "outcome": 0,
+      "post_event_result": 0.007068496408990508,
+      "day": 116
+    },
+    {
+      "subject": 117,
+      "age": 25,
+      "signal": 0.22822833013890514,
+      "outcome": 0,
+      "post_event_result": 0.006626659703854839,
+      "day": 117
+    },
+    {
+      "subject": 118,
+      "age": 31,
+      "signal": 2.5174740375339204,
+      "outcome": 0,
+      "post_event_result": 0.00385037937656101,
+      "day": 118
+    },
+    {
+      "subject": 119,
+      "age": 24,
+      "signal": 1.8768446112816701,
+      "outcome": 0,
+      "post_event_result": 0.005565334427512632,
+      "day": 119
+    },
+    {
+      "subject": 120,
+      "age": 43,
+      "signal": -0.8532433505588201,
+      "outcome": 1,
+      "post_event_result": 1.0029641800080866,
+      "day": 120
+    },
+    {
+      "subject": 121,
+      "age": 56,
+      "signal": -0.2873833615491761,
+      "outcome": 1,
+      "post_event_result": 1.0203507330273107,
+      "day": 121
+    },
+    {
+      "subject": 122,
+      "age": 55,
+      "signal": -1.4634420018370031,
+      "outcome": 1,
+      "post_event_result": 0.9991290582894748,
+      "day": 122
+    },
+    {
+      "subject": 123,
+      "age": 44,
+      "signal": -0.5907070139634865,
+      "outcome": 1,
+      "post_event_result": 0.9969291678166542,
+      "day": 123
+    },
+    {
+      "subject": 124,
+      "age": 66,
+      "signal": 0.3156050035903405,
+      "outcome": 1,
+      "post_event_result": 0.9924647241964262,
+      "day": 124
+    },
+    {
+      "subject": 125,
+      "age": 50,
+      "signal": 1.2058536208882336,
+      "outcome": 0,
+      "post_event_result": -0.010322626705778368,
+      "day": 125
+    },
+    {
+      "subject": 126,
+      "age": 22,
+      "signal": -0.7290838377436085,
+      "outcome": 0,
+      "post_event_result": -0.012444717876010754,
+      "day": 126
+    },
+    {
+      "subject": 127,
+      "age": 61,
+      "signal": -0.6541464400677965,
+      "outcome": 1,
+      "post_event_result": 0.9911120268676908,
+      "day": 127
+    },
+    {
+      "subject": 128,
+      "age": 50,
+      "signal": -2.147289029738655,
+      "outcome": 0,
+      "post_event_result": -0.0007068038165207131,
+      "day": 128
+    },
+    {
+      "subject": 129,
+      "age": 54,
+      "signal": -0.16266592054490767,
+      "outcome": 1,
+      "post_event_result": 1.0033429512849772,
+      "day": 129
+    },
+    {
+      "subject": 130,
+      "age": 50,
+      "signal": -1.062414411859563,
+      "outcome": 1,
+      "post_event_result": 1.0005114205855217,
+      "day": 130
+    },
+    {
+      "subject": 131,
+      "age": 49,
+      "signal": -0.5294394273660737,
+      "outcome": 0,
+      "post_event_result": -0.00765535277429713,
+      "day": 131
+    },
+    {
+      "subject": 132,
+      "age": 23,
+      "signal": -0.8768607781675882,
+      "outcome": 1,
+      "post_event_result": 1.0090018456401997,
+      "day": 132
+    },
+    {
+      "subject": 133,
+      "age": 49,
+      "signal": -0.09426255425255699,
+      "outcome": 1,
+      "post_event_result": 1.0073941267230095,
+      "day": 133
+    },
+    {
+      "subject": 134,
+      "age": 63,
+      "signal": -1.7577283913566313,
+      "outcome": 0,
+      "post_event_result": -0.00159648307422017,
+      "day": 134
+    },
+    {
+      "subject": 135,
+      "age": 35,
+      "signal": -1.4670452453909906,
+      "outcome": 0,
+      "post_event_result": -0.006529161446647121,
+      "day": 135
+    },
+    {
+      "subject": 136,
+      "age": 52,
+      "signal": 2.129247112028298,
+      "outcome": 1,
+      "post_event_result": 1.005484279208298,
+      "day": 136
+    },
+    {
+      "subject": 137,
+      "age": 19,
+      "signal": -1.287422581274031,
+      "outcome": 1,
+      "post_event_result": 1.001879735874861,
+      "day": 137
+    },
+    {
+      "subject": 138,
+      "age": 37,
+      "signal": -1.0967855784546396,
+      "outcome": 0,
+      "post_event_result": -0.014481272594150477,
+      "day": 138
+    },
+    {
+      "subject": 139,
+      "age": 42,
+      "signal": 1.836913528321314,
+      "outcome": 1,
+      "post_event_result": 0.999320197440156,
+      "day": 139
+    },
+    {
+      "subject": 140,
+      "age": 74,
+      "signal": 2.905067169240407,
+      "outcome": 0,
+      "post_event_result": 0.0026203581207438105,
+      "day": 140
+    },
+    {
+      "subject": 141,
+      "age": 30,
+      "signal": -1.1715666288253417,
+      "outcome": 1,
+      "post_event_result": 0.9910030521351224,
+      "day": 141
+    },
+    {
+      "subject": 142,
+      "age": 33,
+      "signal": -0.36824895678803055,
+      "outcome": 1,
+      "post_event_result": 1.0018984339283745,
+      "day": 142
+    },
+    {
+      "subject": 143,
+      "age": 41,
+      "signal": 0.34155555094050954,
+      "outcome": 0,
+      "post_event_result": -0.014548224852577892,
+      "day": 143
+    },
+    {
+      "subject": 144,
+      "age": 74,
+      "signal": 1.7286976444055924,
+      "outcome": 1,
+      "post_event_result": 1.0133618610001216,
+      "day": 144
+    },
+    {
+      "subject": 145,
+      "age": 66,
+      "signal": -0.9868570784282374,
+      "outcome": 1,
+      "post_event_result": 1.0124794998505944,
+      "day": 145
+    },
+    {
+      "subject": 146,
+      "age": 19,
+      "signal": -0.24527784594210975,
+      "outcome": 1,
+      "post_event_result": 0.9974748266569704,
+      "day": 146
+    },
+    {
+      "subject": 147,
+      "age": 31,
+      "signal": 0.777337576061744,
+      "outcome": 0,
+      "post_event_result": 0.0036345433783907316,
+      "day": 147
+    },
+    {
+      "subject": 148,
+      "age": 64,
+      "signal": 0.43476607446661863,
+      "outcome": 0,
+      "post_event_result": -0.02409921965799875,
+      "day": 148
+    },
+    {
+      "subject": 149,
+      "age": 21,
+      "signal": -0.37615607123009925,
+      "outcome": 0,
+      "post_event_result": -0.01156347660265333,
+      "day": 149
+    },
+    {
+      "subject": 150,
+      "age": 66,
+      "signal": -0.13382296451604114,
+      "outcome": 0,
+      "post_event_result": -0.002937789201521298,
+      "day": 150
+    },
+    {
+      "subject": 151,
+      "age": 34,
+      "signal": -1.3748958083699818,
+      "outcome": 0,
+      "post_event_result": -0.010721330214268592,
+      "day": 151
+    },
+    {
+      "subject": 152,
+      "age": 70,
+      "signal": -0.23817374397466523,
+      "outcome": 1,
+      "post_event_result": 1.0071439648263065,
+      "day": 152
+    },
+    {
+      "subject": 153,
+      "age": 34,
+      "signal": -0.2663874900089551,
+      "outcome": 1,
+      "post_event_result": 1.0199729653074798,
+      "day": 153
+    },
+    {
+      "subject": 154,
+      "age": 42,
+      "signal": 0.23216988962625595,
+      "outcome": 1,
+      "post_event_result": 0.988233852805707,
+      "day": 154
+    },
+    {
+      "subject": 155,
+      "age": 55,
+      "signal": -0.555327218819016,
+      "outcome": 0,
+      "post_event_result": -0.008374634040851927,
+      "day": 155
+    },
+    {
+      "subject": 156,
+      "age": 25,
+      "signal": 0.471538522545139,
+      "outcome": 0,
+      "post_event_result": 0.0023544836830993033,
+      "day": 156
+    },
+    {
+      "subject": 157,
+      "age": 49,
+      "signal": 1.0127158178198286,
+      "outcome": 1,
+      "post_event_result": 1.0161111614849963,
+      "day": 157
+    },
+    {
+      "subject": 158,
+      "age": 46,
+      "signal": 0.15542932766846604,
+      "outcome": 0,
+      "post_event_result": -0.012223743125399032,
+      "day": 158
+    },
+    {
+      "subject": 159,
+      "age": 62,
+      "signal": 0.35175640839920347,
+      "outcome": 1,
+      "post_event_result": 1.0024903612230693,
+      "day": 159
+    },
+    {
+      "subject": 160,
+      "age": 74,
+      "signal": 0.053155347577867364,
+      "outcome": 1,
+      "post_event_result": 1.018212988508131,
+      "day": 160
+    },
+    {
+      "subject": 161,
+      "age": 55,
+      "signal": 8.439309141418043e-05,
+      "outcome": 0,
+      "post_event_result": -0.016517591481792673,
+      "day": 161
+    },
+    {
+      "subject": 162,
+      "age": 41,
+      "signal": -0.7215580335428474,
+      "outcome": 0,
+      "post_event_result": -0.012810692068458321,
+      "day": 162
+    },
+    {
+      "subject": 163,
+      "age": 41,
+      "signal": 0.316494261673308,
+      "outcome": 0,
+      "post_event_result": -0.004236066064608383,
+      "day": 163
+    },
+    {
+      "subject": 164,
+      "age": 41,
+      "signal": -0.09728659841348947,
+      "outcome": 0,
+      "post_event_result": -0.00520588412855411,
+      "day": 164
+    },
+    {
+      "subject": 165,
+      "age": 64,
+      "signal": 2.093168308930595,
+      "outcome": 0,
+      "post_event_result": 0.008126012877536446,
+      "day": 165
+    },
+    {
+      "subject": 166,
+      "age": 36,
+      "signal": 1.5733549024752425,
+      "outcome": 1,
+      "post_event_result": 1.0024165971982084,
+      "day": 166
+    },
+    {
+      "subject": 167,
+      "age": 27,
+      "signal": 0.3858465525565008,
+      "outcome": 1,
+      "post_event_result": 0.9822503794035787,
+      "day": 167
+    },
+    {
+      "subject": 168,
+      "age": 37,
+      "signal": -0.7630572096947675,
+      "outcome": 1,
+      "post_event_result": 1.0051541040290082,
+      "day": 168
+    },
+    {
+      "subject": 169,
+      "age": 19,
+      "signal": -1.112411471983418,
+      "outcome": 1,
+      "post_event_result": 0.9942246111264434,
+      "day": 169
+    },
+    {
+      "subject": 170,
+      "age": 24,
+      "signal": 1.191142953088865,
+      "outcome": 1,
+      "post_event_result": 1.0127444721694123,
+      "day": 170
+    },
+    {
+      "subject": 171,
+      "age": 23,
+      "signal": 0.2627492251471385,
+      "outcome": 0,
+      "post_event_result": -0.0062758753643691965,
+      "day": 171
+    },
+    {
+      "subject": 172,
+      "age": 61,
+      "signal": 0.4801434033916108,
+      "outcome": 0,
+      "post_event_result": -0.006366152831022357,
+      "day": 172
+    },
+    {
+      "subject": 173,
+      "age": 59,
+      "signal": -1.7445859869741926,
+      "outcome": 1,
+      "post_event_result": 1.0054113161080453,
+      "day": 173
+    },
+    {
+      "subject": 174,
+      "age": 57,
+      "signal": 0.9274384815581808,
+      "outcome": 0,
+      "post_event_result": 0.007629264823369366,
+      "day": 174
+    },
+    {
+      "subject": 175,
+      "age": 44,
+      "signal": 0.45442033821436295,
+      "outcome": 0,
+      "post_event_result": 0.004480993639362036,
+      "day": 175
+    },
+    {
+      "subject": 176,
+      "age": 58,
+      "signal": -1.110430684414478,
+      "outcome": 1,
+      "post_event_result": 0.9831440268261519,
+      "day": 176
+    },
+    {
+      "subject": 177,
+      "age": 27,
+      "signal": -0.47152480744994896,
+      "outcome": 1,
+      "post_event_result": 1.0053803443992826,
+      "day": 177
+    },
+    {
+      "subject": 178,
+      "age": 69,
+      "signal": 0.2637172043565196,
+      "outcome": 1,
+      "post_event_result": 0.989656919483256,
+      "day": 178
+    },
+    {
+      "subject": 179,
+      "age": 46,
+      "signal": 0.05246679835624363,
+      "outcome": 1,
+      "post_event_result": 1.0023527611158827,
+      "day": 179
+    },
+    {
+      "subject": 180,
+      "age": 71,
+      "signal": -0.292171185803555,
+      "outcome": 0,
+      "post_event_result": -0.014237344353990601,
+      "day": 180
+    },
+    {
+      "subject": 181,
+      "age": 26,
+      "signal": -0.10348826806596086,
+      "outcome": 1,
+      "post_event_result": 1.0044632214754305,
+      "day": 181
+    },
+    {
+      "subject": 182,
+      "age": 46,
+      "signal": -0.25197737820688537,
+      "outcome": 1,
+      "post_event_result": 0.9919340109569262,
+      "day": 182
+    },
+    {
+      "subject": 183,
+      "age": 57,
+      "signal": 0.15256251210246857,
+      "outcome": 1,
+      "post_event_result": 0.9871736534973948,
+      "day": 183
+    },
+    {
+      "subject": 184,
+      "age": 46,
+      "signal": 1.471491972993157,
+      "outcome": 1,
+      "post_event_result": 1.007138201364824,
+      "day": 184
+    },
+    {
+      "subject": 185,
+      "age": 43,
+      "signal": -2.5666584409312976,
+      "outcome": 1,
+      "post_event_result": 1.0024164452167674,
+      "day": 185
+    },
+    {
+      "subject": 186,
+      "age": 27,
+      "signal": -0.23685026450968424,
+      "outcome": 0,
+      "post_event_result": -0.006139768013928971,
+      "day": 186
+    },
+    {
+      "subject": 187,
+      "age": 39,
+      "signal": 0.17651242137244696,
+      "outcome": 0,
+      "post_event_result": 0.014511788490210642,
+      "day": 187
+    },
+    {
+      "subject": 188,
+      "age": 31,
+      "signal": 0.2959939896870995,
+      "outcome": 0,
+      "post_event_result": -0.0044065242156974245,
+      "day": 188
+    },
+    {
+      "subject": 189,
+      "age": 35,
+      "signal": -0.37191458132128985,
+      "outcome": 0,
+      "post_event_result": 0.0003210767397093466,
+      "day": 189
+    },
+    {
+      "subject": 190,
+      "age": 56,
+      "signal": -1.7567217824785826,
+      "outcome": 0,
+      "post_event_result": 0.0026891344767860093,
+      "day": 190
+    },
+    {
+      "subject": 191,
+      "age": 53,
+      "signal": 0.32799548371410964,
+      "outcome": 0,
+      "post_event_result": -0.006196659341286136,
+      "day": 191
+    },
+    {
+      "subject": 192,
+      "age": 52,
+      "signal": 1.727350214164185,
+      "outcome": 1,
+      "post_event_result": 1.0047113629339992,
+      "day": 192
+    },
+    {
+      "subject": 193,
+      "age": 38,
+      "signal": -1.5338614049161376,
+      "outcome": 1,
+      "post_event_result": 0.9946654765283528,
+      "day": 193
+    },
+    {
+      "subject": 194,
+      "age": 72,
+      "signal": 0.8638280136981883,
+      "outcome": 1,
+      "post_event_result": 0.9958836167778379,
+      "day": 194
+    },
+    {
+      "subject": 195,
+      "age": 22,
+      "signal": -0.3285252231228939,
+      "outcome": 1,
+      "post_event_result": 1.0136264263980335,
+      "day": 195
+    },
+    {
+      "subject": 196,
+      "age": 37,
+      "signal": -0.0613243458288473,
+      "outcome": 1,
+      "post_event_result": 0.9895941394748756,
+      "day": 196
+    },
+    {
+      "subject": 197,
+      "age": 24,
+      "signal": -1.052898510703949,
+      "outcome": 1,
+      "post_event_result": 0.9758721966907051,
+      "day": 197
+    },
+    {
+      "subject": 198,
+      "age": 37,
+      "signal": -0.33445617235587666,
+      "outcome": 0,
+      "post_event_result": 0.016109369950118944,
+      "day": 198
+    },
+    {
+      "subject": 199,
+      "age": 72,
+      "signal": 1.3000445946989585,
+      "outcome": 1,
+      "post_event_result": 1.02549327952607,
+      "day": 199
+    },
+    {
+      "subject": 200,
+      "age": 38,
+      "signal": 0.582655241987707,
+      "outcome": 0,
+      "post_event_result": -0.004052692654493318,
+      "day": 200
+    },
+    {
+      "subject": 201,
+      "age": 69,
+      "signal": 1.732311605409944,
+      "outcome": 0,
+      "post_event_result": -0.019368380406201854,
+      "day": 201
+    },
+    {
+      "subject": 202,
+      "age": 46,
+      "signal": 1.1774118889776937,
+      "outcome": 1,
+      "post_event_result": 0.9968951602380406,
+      "day": 202
+    },
+    {
+      "subject": 203,
+      "age": 57,
+      "signal": 0.4390866789295762,
+      "outcome": 1,
+      "post_event_result": 0.9971377705015934,
+      "day": 203
+    },
+    {
+      "subject": 204,
+      "age": 44,
+      "signal": 1.743934526167792,
+      "outcome": 0,
+      "post_event_result": -0.0018992384102225705,
+      "day": 204
+    },
+    {
+      "subject": 205,
+      "age": 33,
+      "signal": 0.43899315873829875,
+      "outcome": 0,
+      "post_event_result": -0.011133880419218483,
+      "day": 205
+    },
+    {
+      "subject": 206,
+      "age": 61,
+      "signal": 0.8279881767970589,
+      "outcome": 0,
+      "post_event_result": 0.005795611424764774,
+      "day": 206
+    },
+    {
+      "subject": 207,
+      "age": 73,
+      "signal": -0.29657095353470836,
+      "outcome": 0,
+      "post_event_result": 0.005245073752860862,
+      "day": 207
+    },
+    {
+      "subject": 208,
+      "age": 33,
+      "signal": 0.06654581585920483,
+      "outcome": 0,
+      "post_event_result": -0.014944056198193065,
+      "day": 208
+    },
+    {
+      "subject": 209,
+      "age": 62,
+      "signal": -0.6974238233002769,
+      "outcome": 1,
+      "post_event_result": 1.006991967316949,
+      "day": 209
+    },
+    {
+      "subject": 210,
+      "age": 32,
+      "signal": 0.989583934594853,
+      "outcome": 1,
+      "post_event_result": 1.0205268498194588,
+      "day": 210
+    },
+    {
+      "subject": 211,
+      "age": 58,
+      "signal": -1.1783036231148656,
+      "outcome": 1,
+      "post_event_result": 1.0017196033243705,
+      "day": 211
+    },
+    {
+      "subject": 212,
+      "age": 62,
+      "signal": 0.7823503424176613,
+      "outcome": 1,
+      "post_event_result": 0.996626748379315,
+      "day": 212
+    },
+    {
+      "subject": 213,
+      "age": 43,
+      "signal": -0.19065105750515945,
+      "outcome": 1,
+      "post_event_result": 0.9985799678559247,
+      "day": 213
+    },
+    {
+      "subject": 214,
+      "age": 60,
+      "signal": 1.1712470934673194,
+      "outcome": 1,
+      "post_event_result": 1.0061525676696856,
+      "day": 214
+    },
+    {
+      "subject": 215,
+      "age": 33,
+      "signal": 0.7508689887312598,
+      "outcome": 0,
+      "post_event_result": -0.017306716055072183,
+      "day": 215
+    },
+    {
+      "subject": 216,
+      "age": 22,
+      "signal": 1.8206461576468016,
+      "outcome": 0,
+      "post_event_result": 0.0016439070297730224,
+      "day": 216
+    },
+    {
+      "subject": 217,
+      "age": 23,
+      "signal": 0.7307746911386448,
+      "outcome": 1,
+      "post_event_result": 0.996095360505372,
+      "day": 217
+    },
+    {
+      "subject": 218,
+      "age": 43,
+      "signal": -1.5720402556532407,
+      "outcome": 0,
+      "post_event_result": 0.018478250129560454,
+      "day": 218
+    },
+    {
+      "subject": 219,
+      "age": 69,
+      "signal": -0.06695317289820084,
+      "outcome": 0,
+      "post_event_result": -0.0017417273380495788,
+      "day": 219
+    },
+    {
+      "subject": 0,
+      "age": 23,
+      "signal": 0.8403081374573955,
+      "outcome": 1,
+      "post_event_result": 0.9986891334931227,
+      "day": 0
+    },
+    {
+      "subject": 1,
+      "age": 62,
+      "signal": -1.7273204231923487,
+      "outcome": 1,
+      "post_event_result": 0.9816909417415247,
+      "day": 1
+    },
+    {
+      "subject": 2,
+      "age": 55,
+      "signal": 0.43442364354585733,
+      "outcome": 0,
+      "post_event_result": 0.009282969915684844,
+      "day": 2
+    },
+    {
+      "subject": 3,
+      "age": 43,
+      "signal": 0.2377356023322779,
+      "outcome": 1,
+      "post_event_result": 0.9939499928719127,
+      "day": 3
+    },
+    {
+      "subject": 4,
+      "age": 42,
+      "signal": -0.5941499556967944,
+      "outcome": 0,
+      "post_event_result": -0.005339002383735546,
+      "day": 4
+    },
+    {
+      "subject": 5,
+      "age": 66,
+      "signal": -1.4460578543884546,
+      "outcome": 1,
+      "post_event_result": 0.9893024758871031,
+      "day": 5
+    },
+    {
+      "subject": 6,
+      "age": 22,
+      "signal": 0.07212950771386951,
+      "outcome": 0,
+      "post_event_result": -0.0065428327668755545,
+      "day": 6
+    },
+    {
+      "subject": 7,
+      "age": 57,
+      "signal": -0.5294927090638024,
+      "outcome": 1,
+      "post_event_result": 1.0042789044069491,
+      "day": 7
+    },
+    {
+      "subject": 8,
+      "age": 29,
+      "signal": 0.23267621135470395,
+      "outcome": 1,
+      "post_event_result": 0.998107556590636,
+      "day": 8
+    },
+    {
+      "subject": 9,
+      "age": 23,
+      "signal": 0.02185214552344288,
+      "outcome": 1,
+      "post_event_result": 1.0032866200228248,
+      "day": 9
+    },
+    {
+      "subject": 10,
+      "age": 48,
+      "signal": 1.6017788913209154,
+      "outcome": 1,
+      "post_event_result": 1.0036192185392885,
+      "day": 10
+    },
+    {
+      "subject": 11,
+      "age": 73,
+      "signal": -0.23935562747302427,
+      "outcome": 1,
+      "post_event_result": 1.0132066165552818,
+      "day": 11
+    },
+    {
+      "subject": 12,
+      "age": 59,
+      "signal": -1.023497492621865,
+      "outcome": 0,
+      "post_event_result": -0.0034278615086437932,
+      "day": 12
+    },
+    {
+      "subject": 13,
+      "age": 61,
+      "signal": 0.17927563495631615,
+      "outcome": 0,
+      "post_event_result": -0.014768578168457318,
+      "day": 13
+    },
+    {
+      "subject": 14,
+      "age": 58,
+      "signal": 0.21999668397176517,
+      "outcome": 1,
+      "post_event_result": 1.0106722241657198,
+      "day": 14
+    },
+    {
+      "subject": 15,
+      "age": 62,
+      "signal": 1.3591875752404365,
+      "outcome": 1,
+      "post_event_result": 0.9966851182790275,
+      "day": 15
+    },
+    {
+      "subject": 16,
+      "age": 47,
+      "signal": 0.8351112459145785,
+      "outcome": 0,
+      "post_event_result": 0.01114592444577377,
+      "day": 16
+    },
+    {
+      "subject": 17,
+      "age": 25,
+      "signal": 0.35687105914950934,
+      "outcome": 0,
+      "post_event_result": 0.003833771131824704,
+      "day": 17
+    },
+    {
+      "subject": 18,
+      "age": 65,
+      "signal": 1.4633028912195618,
+      "outcome": 1,
+      "post_event_result": 0.9986886246979666,
+      "day": 18
+    },
+    {
+      "subject": 19,
+      "age": 43,
+      "signal": -1.188763054322851,
+      "outcome": 1,
+      "post_event_result": 1.003487758940463,
+      "day": 19
+    },
+    {
+      "subject": 20,
+      "age": 46,
+      "signal": -0.6397515327497477,
+      "outcome": 0,
+      "post_event_result": 0.019510125601262997,
+      "day": 20
+    },
+    {
+      "subject": 21,
+      "age": 39,
+      "signal": -0.9265759414055249,
+      "outcome": 0,
+      "post_event_result": 0.02076980529053753,
+      "day": 21
+    },
+    {
+      "subject": 22,
+      "age": 28,
+      "signal": -0.38980980315576796,
+      "outcome": 0,
+      "post_event_result": 0.000693811351327787,
+      "day": 22
+    },
+    {
+      "subject": 23,
+      "age": 70,
+      "signal": -1.3766861475563088,
+      "outcome": 1,
+      "post_event_result": 1.0016019059331707,
+      "day": 23
+    },
+    {
+      "subject": 24,
+      "age": 62,
+      "signal": 0.6351509468144043,
+      "outcome": 0,
+      "post_event_result": 0.010762401574663856,
+      "day": 24
+    },
+    {
+      "subject": 25,
+      "age": 54,
+      "signal": -0.22222269709877338,
+      "outcome": 1,
+      "post_event_result": 0.9915433896723266,
+      "day": 25
+    },
+    {
+      "subject": 26,
+      "age": 40,
+      "signal": -1.4708062945026579,
+      "outcome": 0,
+      "post_event_result": 0.003330703726182551,
+      "day": 26
+    },
+    {
+      "subject": 27,
+      "age": 64,
+      "signal": -1.0155790812075416,
+      "outcome": 0,
+      "post_event_result": -0.00025862847953856403,
+      "day": 27
+    },
+    {
+      "subject": 28,
+      "age": 49,
+      "signal": 0.3135138474501953,
+      "outcome": 1,
+      "post_event_result": 1.0031390821145756,
+      "day": 28
+    },
+    {
+      "subject": 29,
+      "age": 43,
+      "signal": 0.8381265678943811,
+      "outcome": 1,
+      "post_event_result": 0.9916663119405059,
+      "day": 29
+    },
+    {
+      "subject": 30,
+      "age": 43,
+      "signal": 1.9967308916917865,
+      "outcome": 1,
+      "post_event_result": 0.9841043250669103,
+      "day": 30
+    },
+    {
+      "subject": 31,
+      "age": 30,
+      "signal": 2.9138624660073296,
+      "outcome": 1,
+      "post_event_result": 0.9792701656400871,
+      "day": 31
+    },
+    {
+      "subject": 32,
+      "age": 23,
+      "signal": 0.4144094332759964,
+      "outcome": 1,
+      "post_event_result": 0.9888261588701039,
+      "day": 32
+    },
+    {
+      "subject": 33,
+      "age": 49,
+      "signal": -0.9895381200318641,
+      "outcome": 1,
+      "post_event_result": 0.9954132471506066,
+      "day": 33
+    },
+    {
+      "subject": 34,
+      "age": 68,
+      "signal": -2.132046280731309,
+      "outcome": 1,
+      "post_event_result": 0.9970680841335123,
+      "day": 34
+    },
+    {
+      "subject": 35,
+      "age": 21,
+      "signal": 0.2677114623438358,
+      "outcome": 0,
+      "post_event_result": 0.01937231162429517,
+      "day": 35
+    },
+    {
+      "subject": 36,
+      "age": 66,
+      "signal": -0.812941095310326,
+      "outcome": 0,
+      "post_event_result": 0.011059933699072981,
+      "day": 36
+    },
+    {
+      "subject": 37,
+      "age": 65,
+      "signal": -0.41535726017968533,
+      "outcome": 1,
+      "post_event_result": 0.9903790888365838,
+      "day": 37
+    },
+    {
+      "subject": 38,
+      "age": 33,
+      "signal": -0.6120967990598081,
+      "outcome": 0,
+      "post_event_result": 0.0034770845245095695,
+      "day": 38
+    },
+    {
+      "subject": 39,
+      "age": 54,
+      "signal": -0.14079088641638526,
+      "outcome": 1,
+      "post_event_result": 0.9959292176364968,
+      "day": 39
+    },
+    {
+      "subject": 40,
+      "age": 27,
+      "signal": 1.0659802307876436,
+      "outcome": 1,
+      "post_event_result": 0.9971563616195991,
+      "day": 40
+    },
+    {
+      "subject": 41,
+      "age": 61,
+      "signal": 0.15704856744534462,
+      "outcome": 0,
+      "post_event_result": 0.0018532564941538203,
+      "day": 41
+    },
+    {
+      "subject": 42,
+      "age": 57,
+      "signal": -0.1586348370386883,
+      "outcome": 1,
+      "post_event_result": 1.006191711169754,
+      "day": 42
+    },
+    {
+      "subject": 43,
+      "age": 38,
+      "signal": -1.0356537528258116,
+      "outcome": 0,
+      "post_event_result": -0.0033925848388401537,
+      "day": 43
+    },
+    {
+      "subject": 44,
+      "age": 21,
+      "signal": -1.674682944704357,
+      "outcome": 1,
+      "post_event_result": 1.0106385153273436,
+      "day": 44
+    },
+    {
+      "subject": 45,
+      "age": 73,
+      "signal": -0.4863079090733309,
+      "outcome": 0,
+      "post_event_result": -0.011419382261424041,
+      "day": 45
+    },
+    {
+      "subject": 46,
+      "age": 43,
+      "signal": -0.05378255081832049,
+      "outcome": 0,
+      "post_event_result": 6.339062362268442e-05,
+      "day": 46
+    },
+    {
+      "subject": 47,
+      "age": 68,
+      "signal": 1.767929913579883,
+      "outcome": 1,
+      "post_event_result": 1.0259767372659583,
+      "day": 47
+    },
+    {
+      "subject": 48,
+      "age": 56,
+      "signal": 0.13027452147288585,
+      "outcome": 1,
+      "post_event_result": 1.0022307974262528,
+      "day": 48
+    },
+    {
+      "subject": 49,
+      "age": 62,
+      "signal": 0.9827395110230576,
+      "outcome": 0,
+      "post_event_result": 0.014332145066061728,
+      "day": 49
+    },
+    {
+      "subject": 50,
+      "age": 61,
+      "signal": -0.49929559853915206,
+      "outcome": 1,
+      "post_event_result": 1.000915201781732,
+      "day": 50
+    },
+    {
+      "subject": 51,
+      "age": 29,
+      "signal": -1.1849437664170246,
+      "outcome": 1,
+      "post_event_result": 1.005807770953298,
+      "day": 51
+    },
+    {
+      "subject": 52,
+      "age": 38,
+      "signal": -0.9651167622323719,
+      "outcome": 0,
+      "post_event_result": -0.0005678319439269153,
+      "day": 52
+    },
+    {
+      "subject": 53,
+      "age": 44,
+      "signal": -0.7252260645357532,
+      "outcome": 1,
+      "post_event_result": 0.998295924188358,
+      "day": 53
+    },
+    {
+      "subject": 54,
+      "age": 46,
+      "signal": 2.1284697324351645,
+      "outcome": 1,
+      "post_event_result": 0.9922051760327458,
+      "day": 54
+    },
+    {
+      "subject": 55,
+      "age": 20,
+      "signal": -0.8213866792243861,
+      "outcome": 0,
+      "post_event_result": 0.004303013589575532,
+      "day": 55
+    },
+    {
+      "subject": 56,
+      "age": 49,
+      "signal": 0.838489203736345,
+      "outcome": 1,
+      "post_event_result": 0.9914846281081423,
+      "day": 56
+    },
+    {
+      "subject": 57,
+      "age": 26,
+      "signal": -0.9029271780870264,
+      "outcome": 1,
+      "post_event_result": 1.0066558523631344,
+      "day": 57
+    },
+    {
+      "subject": 58,
+      "age": 60,
+      "signal": 0.9315730128742441,
+      "outcome": 1,
+      "post_event_result": 1.010852870044459,
+      "day": 58
+    },
+    {
+      "subject": 59,
+      "age": 56,
+      "signal": 0.38495096610586316,
+      "outcome": 1,
+      "post_event_result": 1.0036653140723724,
+      "day": 59
+    },
+    {
+      "subject": 60,
+      "age": 70,
+      "signal": -0.1566378976580904,
+      "outcome": 1,
+      "post_event_result": 0.9971375126644431,
+      "day": 60
+    },
+    {
+      "subject": 61,
+      "age": 60,
+      "signal": -0.040762526135434025,
+      "outcome": 0,
+      "post_event_result": 0.004539655793086961,
+      "day": 61
+    },
+    {
+      "subject": 62,
+      "age": 38,
+      "signal": -0.6547876954293904,
+      "outcome": 1,
+      "post_event_result": 0.9969132694445358,
+      "day": 62
+    },
+    {
+      "subject": 63,
+      "age": 73,
+      "signal": 0.44607220148208054,
+      "outcome": 0,
+      "post_event_result": 0.009355471254651493,
+      "day": 63
+    },
+    {
+      "subject": 64,
+      "age": 41,
+      "signal": -0.45498348034078,
+      "outcome": 1,
+      "post_event_result": 0.9816859391578487,
+      "day": 64
+    },
+    {
+      "subject": 65,
+      "age": 36,
+      "signal": -1.2256057637672482,
+      "outcome": 0,
+      "post_event_result": -0.0033560736811864625,
+      "day": 65
+    },
+    {
+      "subject": 66,
+      "age": 69,
+      "signal": -1.2779375743196193,
+      "outcome": 0,
+      "post_event_result": -0.019908119951239978,
+      "day": 66
+    },
+    {
+      "subject": 67,
+      "age": 39,
+      "signal": 0.17258791772211948,
+      "outcome": 0,
+      "post_event_result": -0.01495060830227205,
+      "day": 67
+    },
+    {
+      "subject": 68,
+      "age": 22,
+      "signal": 1.579091256410435,
+      "outcome": 1,
+      "post_event_result": 1.013638622298139,
+      "day": 68
+    },
+    {
+      "subject": 69,
+      "age": 44,
+      "signal": 0.15999161357343825,
+      "outcome": 0,
+      "post_event_result": 0.00895184981971686,
+      "day": 69
+    },
+    {
+      "subject": 70,
+      "age": 63,
+      "signal": -0.11863832610988256,
+      "outcome": 0,
+      "post_event_result": -0.007194802332847904,
+      "day": 70
+    },
+    {
+      "subject": 71,
+      "age": 28,
+      "signal": 0.2858261396025429,
+      "outcome": 1,
+      "post_event_result": 0.9849749654395911,
+      "day": 71
+    },
+    {
+      "subject": 72,
+      "age": 44,
+      "signal": 1.3060017417068248,
+      "outcome": 1,
+      "post_event_result": 0.9703547116215835,
+      "day": 72
+    },
+    {
+      "subject": 73,
+      "age": 25,
+      "signal": 0.21938250136385634,
+      "outcome": 0,
+      "post_event_result": -0.005434955079326346,
+      "day": 73
+    },
+    {
+      "subject": 74,
+      "age": 57,
+      "signal": -0.41092723083373717,
+      "outcome": 1,
+      "post_event_result": 1.0242041501224741,
+      "day": 74
+    },
+    {
+      "subject": 75,
+      "age": 45,
+      "signal": 1.1062887100598888,
+      "outcome": 0,
+      "post_event_result": 0.004348842714636474,
+      "day": 75
+    },
+    {
+      "subject": 76,
+      "age": 36,
+      "signal": 0.4287564384616135,
+      "outcome": 0,
+      "post_event_result": -0.005595722860494895,
+      "day": 76
+    },
+    {
+      "subject": 77,
+      "age": 30,
+      "signal": 1.535755991995992,
+      "outcome": 1,
+      "post_event_result": 1.0046508020950031,
+      "day": 77
+    },
+    {
+      "subject": 78,
+      "age": 50,
+      "signal": 0.18323443722190613,
+      "outcome": 0,
+      "post_event_result": -0.015609583529944428,
+      "day": 78
+    },
+    {
+      "subject": 79,
+      "age": 56,
+      "signal": -1.2244690317205003,
+      "outcome": 1,
+      "post_event_result": 0.9970267663730237,
+      "day": 79
+    },
+    {
+      "subject": 80,
+      "age": 71,
+      "signal": -1.368159199245665,
+      "outcome": 1,
+      "post_event_result": 1.0009947747301573,
+      "day": 80
+    },
+    {
+      "subject": 81,
+      "age": 42,
+      "signal": 1.6509279322312496,
+      "outcome": 1,
+      "post_event_result": 0.9991389934817895,
+      "day": 81
+    },
+    {
+      "subject": 82,
+      "age": 27,
+      "signal": 1.723665720783297,
+      "outcome": 0,
+      "post_event_result": 0.007908061216900806,
+      "day": 82
+    },
+    {
+      "subject": 83,
+      "age": 65,
+      "signal": -0.17951921328260065,
+      "outcome": 1,
+      "post_event_result": 1.0034464522623605,
+      "day": 83
+    },
+    {
+      "subject": 84,
+      "age": 53,
+      "signal": -0.38318732113598775,
+      "outcome": 1,
+      "post_event_result": 1.00668326018108,
+      "day": 84
+    },
+    {
+      "subject": 85,
+      "age": 57,
+      "signal": 1.4614442922422022,
+      "outcome": 0,
+      "post_event_result": -0.0068837228223075945,
+      "day": 85
+    },
+    {
+      "subject": 86,
+      "age": 23,
+      "signal": -1.107045682043488,
+      "outcome": 0,
+      "post_event_result": 0.008978154084105482,
+      "day": 86
+    },
+    {
+      "subject": 87,
+      "age": 35,
+      "signal": -0.8947270189558264,
+      "outcome": 0,
+      "post_event_result": 0.016289369476239914,
+      "day": 87
+    },
+    {
+      "subject": 88,
+      "age": 61,
+      "signal": 0.6433267946890444,
+      "outcome": 1,
+      "post_event_result": 0.9902985048034859,
+      "day": 88
+    },
+    {
+      "subject": 89,
+      "age": 65,
+      "signal": -0.3946051228595896,
+      "outcome": 1,
+      "post_event_result": 0.9911230434428544,
+      "day": 89
+    },
+    {
+      "subject": 90,
+      "age": 42,
+      "signal": -0.005121866720071296,
+      "outcome": 0,
+      "post_event_result": 0.013357843363202329,
+      "day": 90
+    },
+    {
+      "subject": 91,
+      "age": 63,
+      "signal": -0.16344289852451258,
+      "outcome": 1,
+      "post_event_result": 0.9980865601330494,
+      "day": 91
+    },
+    {
+      "subject": 92,
+      "age": 65,
+      "signal": 0.33757454879893356,
+      "outcome": 1,
+      "post_event_result": 1.0140382139206656,
+      "day": 92
+    },
+    {
+      "subject": 93,
+      "age": 40,
+      "signal": 1.4074818613137168,
+      "outcome": 1,
+      "post_event_result": 0.9955746428810781,
+      "day": 93
+    },
+    {
+      "subject": 94,
+      "age": 69,
+      "signal": 0.09058490690174555,
+      "outcome": 0,
+      "post_event_result": 0.014550455762707113,
+      "day": 94
+    },
+    {
+      "subject": 95,
+      "age": 34,
+      "signal": 0.6439387932768579,
+      "outcome": 0,
+      "post_event_result": 0.0013148581680545218,
+      "day": 95
+    },
+    {
+      "subject": 96,
+      "age": 31,
+      "signal": -2.0501721010310225,
+      "outcome": 0,
+      "post_event_result": 0.002582288233226952,
+      "day": 96
+    },
+    {
+      "subject": 97,
+      "age": 56,
+      "signal": -0.04871840193011795,
+      "outcome": 1,
+      "post_event_result": 1.015647180216699,
+      "day": 97
+    },
+    {
+      "subject": 98,
+      "age": 54,
+      "signal": -0.8432302702928711,
+      "outcome": 1,
+      "post_event_result": 0.9963822952255583,
+      "day": 98
+    },
+    {
+      "subject": 99,
+      "age": 25,
+      "signal": -1.218813060423628,
+      "outcome": 1,
+      "post_event_result": 0.9905887790407504,
+      "day": 99
+    },
+    {
+      "subject": 100,
+      "age": 65,
+      "signal": -0.8781523669287508,
+      "outcome": 0,
+      "post_event_result": -0.0044856420802835435,
+      "day": 100
+    },
+    {
+      "subject": 101,
+      "age": 29,
+      "signal": -0.33412344070081207,
+      "outcome": 0,
+      "post_event_result": 0.004523339506431387,
+      "day": 101
+    },
+    {
+      "subject": 102,
+      "age": 63,
+      "signal": 0.9159025423560131,
+      "outcome": 0,
+      "post_event_result": -0.015657590721805142,
+      "day": 102
+    },
+    {
+      "subject": 103,
+      "age": 18,
+      "signal": -1.326392717739564,
+      "outcome": 1,
+      "post_event_result": 1.0063747090265112,
+      "day": 103
+    },
+    {
+      "subject": 104,
+      "age": 63,
+      "signal": 0.030631492594417446,
+      "outcome": 0,
+      "post_event_result": -0.005387713176177433,
+      "day": 104
+    },
+    {
+      "subject": 105,
+      "age": 62,
+      "signal": -0.4841694333335785,
+      "outcome": 1,
+      "post_event_result": 1.0114781266073356,
+      "day": 105
+    },
+    {
+      "subject": 106,
+      "age": 62,
+      "signal": -0.32767309436196085,
+      "outcome": 1,
+      "post_event_result": 0.9760573969509952,
+      "day": 106
+    },
+    {
+      "subject": 107,
+      "age": 55,
+      "signal": 1.0027578253046041,
+      "outcome": 0,
+      "post_event_result": -0.007865657751041687,
+      "day": 107
+    },
+    {
+      "subject": 108,
+      "age": 44,
+      "signal": 0.5381154370039261,
+      "outcome": 0,
+      "post_event_result": -0.01686468151234102,
+      "day": 108
+    },
+    {
+      "subject": 109,
+      "age": 58,
+      "signal": 1.3373981074427437,
+      "outcome": 0,
+      "post_event_result": -0.008262294663639525,
+      "day": 109
+    },
+    {
+      "subject": 110,
+      "age": 33,
+      "signal": -0.15450567924990047,
+      "outcome": 1,
+      "post_event_result": 1.0024766590110894,
+      "day": 110
+    },
+    {
+      "subject": 111,
+      "age": 62,
+      "signal": -0.695942611670703,
+      "outcome": 1,
+      "post_event_result": 0.9982077337455024,
+      "day": 111
+    },
+    {
+      "subject": 112,
+      "age": 49,
+      "signal": -0.22385881688049952,
+      "outcome": 0,
+      "post_event_result": -0.0025337756894801495,
+      "day": 112
+    },
+    {
+      "subject": 113,
+      "age": 44,
+      "signal": 0.2424967912712216,
+      "outcome": 0,
+      "post_event_result": -0.001591848713800608,
+      "day": 113
+    },
+    {
+      "subject": 114,
+      "age": 46,
+      "signal": 0.17657335845371103,
+      "outcome": 1,
+      "post_event_result": 1.0020338824061994,
+      "day": 114
+    },
+    {
+      "subject": 115,
+      "age": 50,
+      "signal": -1.0843880722333665,
+      "outcome": 0,
+      "post_event_result": -0.010085360419431078,
+      "day": 115
+    },
+    {
+      "subject": 116,
+      "age": 20,
+      "signal": 0.09048978162787422,
+      "outcome": 0,
+      "post_event_result": 0.007068496408990508,
+      "day": 116
+    },
+    {
+      "subject": 117,
+      "age": 25,
+      "signal": 0.22822833013890514,
+      "outcome": 0,
+      "post_event_result": 0.006626659703854839,
+      "day": 117
+    },
+    {
+      "subject": 118,
+      "age": 31,
+      "signal": 2.5174740375339204,
+      "outcome": 0,
+      "post_event_result": 0.00385037937656101,
+      "day": 118
+    },
+    {
+      "subject": 119,
+      "age": 24,
+      "signal": 1.8768446112816701,
+      "outcome": 0,
+      "post_event_result": 0.005565334427512632,
+      "day": 119
+    },
+    {
+      "subject": 120,
+      "age": 43,
+      "signal": -0.8532433505588201,
+      "outcome": 1,
+      "post_event_result": 1.0029641800080866,
+      "day": 120
+    },
+    {
+      "subject": 121,
+      "age": 56,
+      "signal": -0.2873833615491761,
+      "outcome": 1,
+      "post_event_result": 1.0203507330273107,
+      "day": 121
+    },
+    {
+      "subject": 122,
+      "age": 55,
+      "signal": -1.4634420018370031,
+      "outcome": 1,
+      "post_event_result": 0.9991290582894748,
+      "day": 122
+    },
+    {
+      "subject": 123,
+      "age": 44,
+      "signal": -0.5907070139634865,
+      "outcome": 1,
+      "post_event_result": 0.9969291678166542,
+      "day": 123
+    },
+    {
+      "subject": 124,
+      "age": 66,
+      "signal": 0.3156050035903405,
+      "outcome": 1,
+      "post_event_result": 0.9924647241964262,
+      "day": 124
+    },
+    {
+      "subject": 125,
+      "age": 50,
+      "signal": 1.2058536208882336,
+      "outcome": 0,
+      "post_event_result": -0.010322626705778368,
+      "day": 125
+    },
+    {
+      "subject": 126,
+      "age": 22,
+      "signal": -0.7290838377436085,
+      "outcome": 0,
+      "post_event_result": -0.012444717876010754,
+      "day": 126
+    },
+    {
+      "subject": 127,
+      "age": 61,
+      "signal": -0.6541464400677965,
+      "outcome": 1,
+      "post_event_result": 0.9911120268676908,
+      "day": 127
+    },
+    {
+      "subject": 128,
+      "age": 50,
+      "signal": -2.147289029738655,
+      "outcome": 0,
+      "post_event_result": -0.0007068038165207131,
+      "day": 128
+    },
+    {
+      "subject": 129,
+      "age": 54,
+      "signal": -0.16266592054490767,
+      "outcome": 1,
+      "post_event_result": 1.0033429512849772,
+      "day": 129
+    },
+    {
+      "subject": 130,
+      "age": 50,
+      "signal": -1.062414411859563,
+      "outcome": 1,
+      "post_event_result": 1.0005114205855217,
+      "day": 130
+    },
+    {
+      "subject": 131,
+      "age": 49,
+      "signal": -0.5294394273660737,
+      "outcome": 0,
+      "post_event_result": -0.00765535277429713,
+      "day": 131
+    },
+    {
+      "subject": 132,
+      "age": 23,
+      "signal": -0.8768607781675882,
+      "outcome": 1,
+      "post_event_result": 1.0090018456401997,
+      "day": 132
+    },
+    {
+      "subject": 133,
+      "age": 49,
+      "signal": -0.09426255425255699,
+      "outcome": 1,
+      "post_event_result": 1.0073941267230095,
+      "day": 133
+    },
+    {
+      "subject": 134,
+      "age": 63,
+      "signal": -1.7577283913566313,
+      "outcome": 0,
+      "post_event_result": -0.00159648307422017,
+      "day": 134
+    },
+    {
+      "subject": 135,
+      "age": 35,
+      "signal": -1.4670452453909906,
+      "outcome": 0,
+      "post_event_result": -0.006529161446647121,
+      "day": 135
+    },
+    {
+      "subject": 136,
+      "age": 52,
+      "signal": 2.129247112028298,
+      "outcome": 1,
+      "post_event_result": 1.005484279208298,
+      "day": 136
+    },
+    {
+      "subject": 137,
+      "age": 19,
+      "signal": -1.287422581274031,
+      "outcome": 1,
+      "post_event_result": 1.001879735874861,
+      "day": 137
+    },
+    {
+      "subject": 138,
+      "age": 37,
+      "signal": -1.0967855784546396,
+      "outcome": 0,
+      "post_event_result": -0.014481272594150477,
+      "day": 138
+    },
+    {
+      "subject": 139,
+      "age": 42,
+      "signal": 1.836913528321314,
+      "outcome": 1,
+      "post_event_result": 0.999320197440156,
+      "day": 139
+    },
+    {
+      "subject": 140,
+      "age": 74,
+      "signal": 2.905067169240407,
+      "outcome": 0,
+      "post_event_result": 0.0026203581207438105,
+      "day": 140
+    },
+    {
+      "subject": 141,
+      "age": 30,
+      "signal": -1.1715666288253417,
+      "outcome": 1,
+      "post_event_result": 0.9910030521351224,
+      "day": 141
+    },
+    {
+      "subject": 142,
+      "age": 33,
+      "signal": -0.36824895678803055,
+      "outcome": 1,
+      "post_event_result": 1.0018984339283745,
+      "day": 142
+    },
+    {
+      "subject": 143,
+      "age": 41,
+      "signal": 0.34155555094050954,
+      "outcome": 0,
+      "post_event_result": -0.014548224852577892,
+      "day": 143
+    },
+    {
+      "subject": 144,
+      "age": 74,
+      "signal": 1.7286976444055924,
+      "outcome": 1,
+      "post_event_result": 1.0133618610001216,
+      "day": 144
+    },
+    {
+      "subject": 145,
+      "age": 66,
+      "signal": -0.9868570784282374,
+      "outcome": 1,
+      "post_event_result": 1.0124794998505944,
+      "day": 145
+    },
+    {
+      "subject": 146,
+      "age": 19,
+      "signal": -0.24527784594210975,
+      "outcome": 1,
+      "post_event_result": 0.9974748266569704,
+      "day": 146
+    },
+    {
+      "subject": 147,
+      "age": 31,
+      "signal": 0.777337576061744,
+      "outcome": 0,
+      "post_event_result": 0.0036345433783907316,
+      "day": 147
+    },
+    {
+      "subject": 148,
+      "age": 64,
+      "signal": 0.43476607446661863,
+      "outcome": 0,
+      "post_event_result": -0.02409921965799875,
+      "day": 148
+    },
+    {
+      "subject": 149,
+      "age": 21,
+      "signal": -0.37615607123009925,
+      "outcome": 0,
+      "post_event_result": -0.01156347660265333,
+      "day": 149
+    },
+    {
+      "subject": 150,
+      "age": 66,
+      "signal": -0.13382296451604114,
+      "outcome": 0,
+      "post_event_result": -0.002937789201521298,
+      "day": 150
+    },
+    {
+      "subject": 151,
+      "age": 34,
+      "signal": -1.3748958083699818,
+      "outcome": 0,
+      "post_event_result": -0.010721330214268592,
+      "day": 151
+    },
+    {
+      "subject": 152,
+      "age": 70,
+      "signal": -0.23817374397466523,
+      "outcome": 1,
+      "post_event_result": 1.0071439648263065,
+      "day": 152
+    },
+    {
+      "subject": 153,
+      "age": 34,
+      "signal": -0.2663874900089551,
+      "outcome": 1,
+      "post_event_result": 1.0199729653074798,
+      "day": 153
+    },
+    {
+      "subject": 154,
+      "age": 42,
+      "signal": 0.23216988962625595,
+      "outcome": 1,
+      "post_event_result": 0.988233852805707,
+      "day": 154
+    },
+    {
+      "subject": 155,
+      "age": 55,
+      "signal": -0.555327218819016,
+      "outcome": 0,
+      "post_event_result": -0.008374634040851927,
+      "day": 155
+    },
+    {
+      "subject": 156,
+      "age": 25,
+      "signal": 0.471538522545139,
+      "outcome": 0,
+      "post_event_result": 0.0023544836830993033,
+      "day": 156
+    },
+    {
+      "subject": 157,
+      "age": 49,
+      "signal": 1.0127158178198286,
+      "outcome": 1,
+      "post_event_result": 1.0161111614849963,
+      "day": 157
+    },
+    {
+      "subject": 158,
+      "age": 46,
+      "signal": 0.15542932766846604,
+      "outcome": 0,
+      "post_event_result": -0.012223743125399032,
+      "day": 158
+    },
+    {
+      "subject": 159,
+      "age": 62,
+      "signal": 0.35175640839920347,
+      "outcome": 1,
+      "post_event_result": 1.0024903612230693,
+      "day": 159
+    },
+    {
+      "subject": 160,
+      "age": 74,
+      "signal": 0.053155347577867364,
+      "outcome": 1,
+      "post_event_result": 1.018212988508131,
+      "day": 160
+    },
+    {
+      "subject": 161,
+      "age": 55,
+      "signal": 8.439309141418043e-05,
+      "outcome": 0,
+      "post_event_result": -0.016517591481792673,
+      "day": 161
+    },
+    {
+      "subject": 162,
+      "age": 41,
+      "signal": -0.7215580335428474,
+      "outcome": 0,
+      "post_event_result": -0.012810692068458321,
+      "day": 162
+    },
+    {
+      "subject": 163,
+      "age": 41,
+      "signal": 0.316494261673308,
+      "outcome": 0,
+      "post_event_result": -0.004236066064608383,
+      "day": 163
+    },
+    {
+      "subject": 164,
+      "age": 41,
+      "signal": -0.09728659841348947,
+      "outcome": 0,
+      "post_event_result": -0.00520588412855411,
+      "day": 164
+    },
+    {
+      "subject": 165,
+      "age": 64,
+      "signal": 2.093168308930595,
+      "outcome": 0,
+      "post_event_result": 0.008126012877536446,
+      "day": 165
+    },
+    {
+      "subject": 166,
+      "age": 36,
+      "signal": 1.5733549024752425,
+      "outcome": 1,
+      "post_event_result": 1.0024165971982084,
+      "day": 166
+    },
+    {
+      "subject": 167,
+      "age": 27,
+      "signal": 0.3858465525565008,
+      "outcome": 1,
+      "post_event_result": 0.9822503794035787,
+      "day": 167
+    },
+    {
+      "subject": 168,
+      "age": 37,
+      "signal": -0.7630572096947675,
+      "outcome": 1,
+      "post_event_result": 1.0051541040290082,
+      "day": 168
+    },
+    {
+      "subject": 169,
+      "age": 19,
+      "signal": -1.112411471983418,
+      "outcome": 1,
+      "post_event_result": 0.9942246111264434,
+      "day": 169
+    },
+    {
+      "subject": 170,
+      "age": 24,
+      "signal": 1.191142953088865,
+      "outcome": 1,
+      "post_event_result": 1.0127444721694123,
+      "day": 170
+    },
+    {
+      "subject": 171,
+      "age": 23,
+      "signal": 0.2627492251471385,
+      "outcome": 0,
+      "post_event_result": -0.0062758753643691965,
+      "day": 171
+    },
+    {
+      "subject": 172,
+      "age": 61,
+      "signal": 0.4801434033916108,
+      "outcome": 0,
+      "post_event_result": -0.006366152831022357,
+      "day": 172
+    },
+    {
+      "subject": 173,
+      "age": 59,
+      "signal": -1.7445859869741926,
+      "outcome": 1,
+      "post_event_result": 1.0054113161080453,
+      "day": 173
+    },
+    {
+      "subject": 174,
+      "age": 57,
+      "signal": 0.9274384815581808,
+      "outcome": 0,
+      "post_event_result": 0.007629264823369366,
+      "day": 174
+    },
+    {
+      "subject": 175,
+      "age": 44,
+      "signal": 0.45442033821436295,
+      "outcome": 0,
+      "post_event_result": 0.004480993639362036,
+      "day": 175
+    },
+    {
+      "subject": 176,
+      "age": 58,
+      "signal": -1.110430684414478,
+      "outcome": 1,
+      "post_event_result": 0.9831440268261519,
+      "day": 176
+    },
+    {
+      "subject": 177,
+      "age": 27,
+      "signal": -0.47152480744994896,
+      "outcome": 1,
+      "post_event_result": 1.0053803443992826,
+      "day": 177
+    },
+    {
+      "subject": 178,
+      "age": 69,
+      "signal": 0.2637172043565196,
+      "outcome": 1,
+      "post_event_result": 0.989656919483256,
+      "day": 178
+    },
+    {
+      "subject": 179,
+      "age": 46,
+      "signal": 0.05246679835624363,
+      "outcome": 1,
+      "post_event_result": 1.0023527611158827,
+      "day": 179
+    },
+    {
+      "subject": 180,
+      "age": 71,
+      "signal": -0.292171185803555,
+      "outcome": 0,
+      "post_event_result": -0.014237344353990601,
+      "day": 180
+    },
+    {
+      "subject": 181,
+      "age": 26,
+      "signal": -0.10348826806596086,
+      "outcome": 1,
+      "post_event_result": 1.0044632214754305,
+      "day": 181
+    },
+    {
+      "subject": 182,
+      "age": 46,
+      "signal": -0.25197737820688537,
+      "outcome": 1,
+      "post_event_result": 0.9919340109569262,
+      "day": 182
+    },
+    {
+      "subject": 183,
+      "age": 57,
+      "signal": 0.15256251210246857,
+      "outcome": 1,
+      "post_event_result": 0.9871736534973948,
+      "day": 183
+    },
+    {
+      "subject": 184,
+      "age": 46,
+      "signal": 1.471491972993157,
+      "outcome": 1,
+      "post_event_result": 1.007138201364824,
+      "day": 184
+    },
+    {
+      "subject": 185,
+      "age": 43,
+      "signal": -2.5666584409312976,
+      "outcome": 1,
+      "post_event_result": 1.0024164452167674,
+      "day": 185
+    },
+    {
+      "subject": 186,
+      "age": 27,
+      "signal": -0.23685026450968424,
+      "outcome": 0,
+      "post_event_result": -0.006139768013928971,
+      "day": 186
+    },
+    {
+      "subject": 187,
+      "age": 39,
+      "signal": 0.17651242137244696,
+      "outcome": 0,
+      "post_event_result": 0.014511788490210642,
+      "day": 187
+    },
+    {
+      "subject": 188,
+      "age": 31,
+      "signal": 0.2959939896870995,
+      "outcome": 0,
+      "post_event_result": -0.0044065242156974245,
+      "day": 188
+    },
+    {
+      "subject": 189,
+      "age": 35,
+      "signal": -0.37191458132128985,
+      "outcome": 0,
+      "post_event_result": 0.0003210767397093466,
+      "day": 189
+    },
+    {
+      "subject": 190,
+      "age": 56,
+      "signal": -1.7567217824785826,
+      "outcome": 0,
+      "post_event_result": 0.0026891344767860093,
+      "day": 190
+    },
+    {
+      "subject": 191,
+      "age": 53,
+      "signal": 0.32799548371410964,
+      "outcome": 0,
+      "post_event_result": -0.006196659341286136,
+      "day": 191
+    },
+    {
+      "subject": 192,
+      "age": 52,
+      "signal": 1.727350214164185,
+      "outcome": 1,
+      "post_event_result": 1.0047113629339992,
+      "day": 192
+    },
+    {
+      "subject": 193,
+      "age": 38,
+      "signal": -1.5338614049161376,
+      "outcome": 1,
+      "post_event_result": 0.9946654765283528,
+      "day": 193
+    },
+    {
+      "subject": 194,
+      "age": 72,
+      "signal": 0.8638280136981883,
+      "outcome": 1,
+      "post_event_result": 0.9958836167778379,
+      "day": 194
+    },
+    {
+      "subject": 195,
+      "age": 22,
+      "signal": -0.3285252231228939,
+      "outcome": 1,
+      "post_event_result": 1.0136264263980335,
+      "day": 195
+    },
+    {
+      "subject": 196,
+      "age": 37,
+      "signal": -0.0613243458288473,
+      "outcome": 1,
+      "post_event_result": 0.9895941394748756,
+      "day": 196
+    },
+    {
+      "subject": 197,
+      "age": 24,
+      "signal": -1.052898510703949,
+      "outcome": 1,
+      "post_event_result": 0.9758721966907051,
+      "day": 197
+    },
+    {
+      "subject": 198,
+      "age": 37,
+      "signal": -0.33445617235587666,
+      "outcome": 0,
+      "post_event_result": 0.016109369950118944,
+      "day": 198
+    },
+    {
+      "subject": 199,
+      "age": 72,
+      "signal": 1.3000445946989585,
+      "outcome": 1,
+      "post_event_result": 1.02549327952607,
+      "day": 199
+    },
+    {
+      "subject": 200,
+      "age": 38,
+      "signal": 0.582655241987707,
+      "outcome": 0,
+      "post_event_result": -0.004052692654493318,
+      "day": 200
+    },
+    {
+      "subject": 201,
+      "age": 69,
+      "signal": 1.732311605409944,
+      "outcome": 0,
+      "post_event_result": -0.019368380406201854,
+      "day": 201
+    },
+    {
+      "subject": 202,
+      "age": 46,
+      "signal": 1.1774118889776937,
+      "outcome": 1,
+      "post_event_result": 0.9968951602380406,
+      "day": 202
+    },
+    {
+      "subject": 203,
+      "age": 57,
+      "signal": 0.4390866789295762,
+      "outcome": 1,
+      "post_event_result": 0.9971377705015934,
+      "day": 203
+    },
+    {
+      "subject": 204,
+      "age": 44,
+      "signal": 1.743934526167792,
+      "outcome": 0,
+      "post_event_result": -0.0018992384102225705,
+      "day": 204
+    },
+    {
+      "subject": 205,
+      "age": 33,
+      "signal": 0.43899315873829875,
+      "outcome": 0,
+      "post_event_result": -0.011133880419218483,
+      "day": 205
+    },
+    {
+      "subject": 206,
+      "age": 61,
+      "signal": 0.8279881767970589,
+      "outcome": 0,
+      "post_event_result": 0.005795611424764774,
+      "day": 206
+    },
+    {
+      "subject": 207,
+      "age": 73,
+      "signal": -0.29657095353470836,
+      "outcome": 0,
+      "post_event_result": 0.005245073752860862,
+      "day": 207
+    },
+    {
+      "subject": 208,
+      "age": 33,
+      "signal": 0.06654581585920483,
+      "outcome": 0,
+      "post_event_result": -0.014944056198193065,
+      "day": 208
+    },
+    {
+      "subject": 209,
+      "age": 62,
+      "signal": -0.6974238233002769,
+      "outcome": 1,
+      "post_event_result": 1.006991967316949,
+      "day": 209
+    },
+    {
+      "subject": 210,
+      "age": 32,
+      "signal": 0.989583934594853,
+      "outcome": 1,
+      "post_event_result": 1.0205268498194588,
+      "day": 210
+    },
+    {
+      "subject": 211,
+      "age": 58,
+      "signal": -1.1783036231148656,
+      "outcome": 1,
+      "post_event_result": 1.0017196033243705,
+      "day": 211
+    },
+    {
+      "subject": 212,
+      "age": 62,
+      "signal": 0.7823503424176613,
+      "outcome": 1,
+      "post_event_result": 0.996626748379315,
+      "day": 212
+    },
+    {
+      "subject": 213,
+      "age": 43,
+      "signal": -0.19065105750515945,
+      "outcome": 1,
+      "post_event_result": 0.9985799678559247,
+      "day": 213
+    },
+    {
+      "subject": 214,
+      "age": 60,
+      "signal": 1.1712470934673194,
+      "outcome": 1,
+      "post_event_result": 1.0061525676696856,
+      "day": 214
+    },
+    {
+      "subject": 215,
+      "age": 33,
+      "signal": 0.7508689887312598,
+      "outcome": 0,
+      "post_event_result": -0.017306716055072183,
+      "day": 215
+    },
+    {
+      "subject": 216,
+      "age": 22,
+      "signal": 1.8206461576468016,
+      "outcome": 0,
+      "post_event_result": 0.0016439070297730224,
+      "day": 216
+    },
+    {
+      "subject": 217,
+      "age": 23,
+      "signal": 0.7307746911386448,
+      "outcome": 1,
+      "post_event_result": 0.996095360505372,
+      "day": 217
+    },
+    {
+      "subject": 218,
+      "age": 43,
+      "signal": -1.5720402556532407,
+      "outcome": 0,
+      "post_event_result": 0.018478250129560454,
+      "day": 218
+    },
+    {
+      "subject": 219,
+      "age": 69,
+      "signal": -0.06695317289820084,
+      "outcome": 0,
+      "post_event_result": -0.0017417273380495788,
+      "day": 219
+    }
+  ],
+  "target": "outcome",
+  "group": "subject",
+  "time": "day",
+  "unavailable": [
+    "post_event_result"
+  ],
+  "findings": [
+    {
+      "type": "duplicates",
+      "severity": "confirmed",
+      "count": 440,
+      "evidence": "440 exact duplicate records. Keep duplicate groups together or deduplicate before splitting."
+    },
+    {
+      "type": "prediction_time_unavailable",
+      "severity": "confirmed by supplied metadata",
+      "column": "post_event_result",
+      "evidence": "User/task metadata marks this feature unavailable at prediction time."
+    },
+    {
+      "type": "target_proxy",
+      "severity": "review",
+      "column": "post_event_result",
+      "correlation": 0.9997926601626268,
+      "evidence": "High correlation alone does not establish leakage. Check availability and provenance."
+    },
+    {
+      "type": "entity_overlap",
+      "severity": "confirmed overlap; task dependent",
+      "count": 128,
+      "evidence": "Random record split shares entities. A new-entity task requires a grouped split."
+    }
+  ],
+  "last_result": null,
+  "profile": {
+    "rows": 660,
+    "columns": [
+      {
+        "name": "subject",
+        "dtype": "int64",
+        "missing": 0,
+        "unique": 220
+      },
+      {
+        "name": "age",
+        "dtype": "int64",
+        "missing": 0,
+        "unique": 55
+      },
+      {
+        "name": "signal",
+        "dtype": "float64",
+        "missing": 0,
+        "unique": 220
+      },
+      {
+        "name": "outcome",
+        "dtype": "int64",
+        "missing": 0,
+        "unique": 2
+      },
+      {
+        "name": "post_event_result",
+        "dtype": "float64",
+        "missing": 0,
+        "unique": 220
+      },
+      {
+        "name": "day",
+        "dtype": "int64",
+        "missing": 0,
+        "unique": 220
+      }
+    ],
+    "duplicate_rows": 440
+  }
+}

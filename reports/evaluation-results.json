@@ -1,0 +1,40 @@
+{
+  "results": [
+    {
+      "project": "dataset-crime",
+      "status": "passed",
+      "seconds": 0.21975622800073324,
+      "evaluation": {
+        "original": {
+          "accuracy": 1.0,
+          "macro_f1": 1.0,
+          "train_rows": 495,
+          "test_rows": 165,
+          "features": [
+            "subject",
+            "age",
+            "signal",
+            "post_event_result",
+            "day"
+          ]
+        },
+        "corrected": {
+          "accuracy": 0.43636363636363634,
+          "macro_f1": 0.43561734524991724,
+          "train_rows": 495,
+          "test_rows": 165,
+          "features": [
+            "age",
+            "signal"
+          ]
+        },
+        "strategy": "grouped new-entity holdout",
+        "excluded": [
+          "post_event_result"
+        ],
+        "note": "Different split protocols answer different generalization questions. Only explicitly unavailable features are excluded as leaks; correlations remain review findings."
+      },
+      "additional": {}
+    }
+  ]
+}

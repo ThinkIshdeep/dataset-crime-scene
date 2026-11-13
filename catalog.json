@@ -1,0 +1,11 @@
+[
+  {
+    "id": "dataset-crime",
+    "name": "Dataset Crime Scene",
+    "category": "Data forensics",
+    "tagline": "Ninety-nine percent? Interesting. Show me the split.",
+    "accent": "#e8bc9c",
+    "number": "13",
+    "module": "dataset"
+  }
+]
